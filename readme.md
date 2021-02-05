@@ -1,12 +1,7 @@
-# **Истилоҳоти Фановарии Иттилоот ба забони порсии тоҷикӣ**
+# Истилоҳоти Фановарии Иттилоот ба забони порсии тоҷикӣ
 
 ## Феҳрист
-
-[TOCM]
-
-[TOC]
-
-#[A](#A) | #[B](#B) | ##[C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
+[A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
 ### A 
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
@@ -20,174 +15,1553 @@
 | Active Directory  |   |   | **Active Directory** is the “directory service” portion of the Windows 2000 operating system. Active Directory manages the identities and relationships of the distributed resources that make up a network environment. It stores information about network-based entities (e.g., applications, files, printers and people) and provides a consistent way to name, describe, locate, access, manage and secure information about these resources. It the central authority that manages the identities and brokers the relationships between these distributed resources, enabling them to work together.  |
 | Active Matrix Organic Light-emitting Diodes (AMOLED)  |   |   | **Active matrix organic light-emitting diodes (AMOLEDs)** consist of pixels of electroluminescent organic compounds “printed” in a matrix onto a base layer. This base layer is currently glass and will be further developed to use flexible polymers in the future. Unlike liquid crystal displays, OLED displays do not require a backlight and consume very little power, making them suitable for battery-powered devices. AMOLEDs use a thin film transistor (TFT) to control the pixels.  |
 | ActiveX  |   |   | **ActiveX** is an application programming interface (API) that enhances Microsoft’s OLE protocol. Often compared to Java, ActiveX facilitates various Internet applications, and therefore extends and enhances the functionality of Microsoft’s Internet Explorer browser. Like Java, ActiveX enables the development of interactive content. When an ActiveX-aware browser encounters a Web page that includes an unfamiliar feature, it automatically installs the appropriate applications so the feature can be used.  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Activity Stream |   |   |   |
+| Activity-based Costing (ABC) |   |   |   |
+| Activity-based Management (ABM) |   |   |   |
+| Ad Ops |   |   |   |
+| Ad Tech |   |   |   |
+| Adapters |   |   |   |
+| Adaptive Learning |   |   |   |
+| Additive Manufacturing |   |   |   |
+| Addressable TV Advertising |   |   |   |
+| Adsorption Chillers |   |   |   |
+| Advanced Analytics |   |   |   |
+| Advanced Clinical Research Information Systems (ACRIS) |   |   |   |
+| Advanced Distribution Management Systems (ADMS) |   |   |   |
+| Advanced Distribution Protection And Restoration Devices |   |   |   |
+| Advanced Driver Assistance Systems (ADAS) |   |   |   |
+| Advanced Fraud Detection And Analysis Technologies |   |   |   |
+| Advanced Message Queuing Protocol (AMQP) |   |   |   |
+| Advanced Metering Infrastructure (AMI) |   |   |   |
+| Advanced Planning And Scheduling (APS) |   |   |   |
+| Advanced Research Projects Agency Network (ARPANET) |   |   |   |
+| Advanced Server Energy Monitoring Tools |   |   |   |
+| Advanced Shipment Notice (ASN) |   |   |   |
+| Advanced Technology |   |   |   |
+| Advanced Technology Group (ATG) |   |   |   |
+| Advanced Threat Detection (ATD) Appliances |   |   |   |
+| Advanced Web Services |   |   |   |
+| Advertisement Action |   |   |   |
+| Advocacy Marketing |   |   |   |
+| Aerial And Digital Imagery |   |   |   |
+| Affective Computing |   |   |   |
+| Agent Collaboration Tools |   |   |   |
+| Agent Portal Solutions |   |   |   |
+| Agile |   |   |   |
+| Agile Marketing Project Management |   |   |   |
+| Agile NeoRAD |   |   |   |
+| AIM (AOL Instant Messenger) |   |   |   |
+| AIOps (Artificial Intelligence for IT Operations) |   |   |   |
+| AIOps Platform |   |   |   |
+| Algorithmic Business |   |   |   |
+| Alliance And Relationship Management |   |   |   |
+| All-in-One (AIO) PCs |   |   |   |
+| Alternative Card Networks |   |   |   |
+| Alternative Delivery Models |   |   |   |
+| Ambient And Glanceable Displays |   |   |   |
+| AMD (Architected, Model-driven Development) |   |   |   |
+| American National Standards Institute (ANSI) |   |   |   |
+| American Standard Code For Information Interchange (ASCII) |   |   |   |
+| AMG (Access Media Gateways) |   |   |   |
+| AMIA (American Medical Informatics Association) |   |   |   |
+| AMIS (Audio Messaging Interchange Specification) |   |   |   |
+| AMO (Application Management Outsourcing) |   |   |   |
+| AMPS (Advanced Mobile Phone Service) |   |   |   |
+| AMR (Adaptive Multirate) |   |   |   |
+| Analytic Applications |   |   |   |
+| Analytical Hierarchy Process (AHP) |   |   |   |
+| Analytics |   |   |   |
+| Analytics and Business Intelligence (ABI) |   |   |   |
+| Answer Marketplace |   |   |   |
+| Api Management |   |   |   |
+| Applet |   |   |   |
+| Appliances |   |   |   |
+| Applicant Tracking Systems (ATS) |   |   |   |
+| Application Architecture |   |   |   |
+| Application Control |   |   |   |
+| Application Data Management (ADM) |   |   |   |
+| Application Delivery Controller (ADC) |   |   |   |
+| Application Development (AD) |   |   |   |
+| Application Infrastructure |   |   |   |
+| Application Infrastructure Suite (AIS) |   |   |   |
+| Application Integration |   |   |   |
+| Application Life Cycle Management Platform as a Service (ALM PaaS) |   |   |   |
+| Application Management |   |   |   |
+| Application Modernization Services |   |   |   |
+| Application Obfuscation |   |   |   |
+| Application Outsourcing |   |   |   |
+| Application Performance Monitoring (APM) |   |   |   |
+| Application Platform as a Service (aPaaS) |   |   |   |
+| Application Program |   |   |   |
+| Application Programming Interface (API) |   |   |   |
+| Application Release Automation (ARA) |   |   |   |
+| Application Server |   |   |   |
+| Application Service Provider (ASP) |   |   |   |
+| Application Sharing |   |   |   |
+| Application Software Services |   |   |   |
+| Application, Channel, Technology And Industry (ACT I) |   |   |   |
+| Applications Portfolio Analysis (APA) |   |   |   |
+| Application-Specific Integrated Circuit (ASIC) |   |   |   |
+| Application-Specific Standard Product (ASSP) |   |   |   |
+| Architected Rapid Application Development (ARAD) |   |   |   |
+| Architecture |   |   |   |
+| Artificial Intelligence (AI) |   |   |   |
+| Assemble To Order |   |   |   |
+| Asset Performance Management (APM) |   |   |   |
+| Asynchronous Transfer Mode (ATM) |   |   |   |
+| Asynchronous Transmission |   |   |   |
+| Attenuation |   |   |   |
+| Audio Mining/speech Analytics |   |   |   |
+| Augmented Analytics |   |   |   |
+| Augmented Intelligence |   |   |   |
+| Augmented Reality (AR) |   |   |   |
+| Authentication Service |   |   |   |
+| Authentication Technologies |   |   |   |
+| Authorization |   |   |   |
+| Automated Backup |   |   |   |
+| Automated Business Process Discovery (ABPD) |   |   |   |
+| Automated Document Factory (ADF) |   |   |   |
+| Automated Payment Tracking And Reconciliation Services |   |   |   |
+| Automated System Operations (ASO) |   |   |   |
+| Automated Teller Machine (ATM) |   |   |   |
+| Automated Testing |   |   |   |
+| Automated Vehicle Locating (AVL) |   |   |   |
+| Automatic Content Recognition (ACR) |   |   |   |
+| Automatic Restart |   |   |   |
+| Automatic Storage Tiering (Auto-Tiering) |   |   |   |
+| Autonomous System (AS) |   |   |   |
+| Autonomous System Number (ASN) |   |   |   |
+| Autonomous Vehicles |   |   |   |
+| Availability |   |   |   |
+| Avatar |   |   |   |
+| Average Inventory |   |   |   |
+| Average Selling Price (ASP) |   |   |   |
+| Average Speed of Answer (ASA) |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### B
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-| backbone  |   |   | A term that is often used to describe the main network connections that comprise the Internet or other major network.  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| B2B Gateway Software |   |   |   |
+| B2B Price Optimization And Management |   |   |   |
+| B2B Web Services |   |   |   |
+| Backbone |   |   |   |
+| Backbone Network |   |   |   |
+| Backbone Router |   |   |   |
+| Back-end |   |   |   |
+| Background Task |   |   |   |
+| Backhaul |   |   |   |
+| Backplane |   |   |   |
+| Backup Server |   |   |   |
+| Backup/recovery Software |   |   |   |
+| Balanced Scorecard (bsc) |   |   |   |
+| Band |   |   |   |
+| Bandwidth |   |   |   |
+| Bandwidth As Currency |   |   |   |
+| Bank Tiers |   |   |   |
+| Bar Code Marketing |   |   |   |
+| Base Station |   |   |   |
+| Base Station Controller (BSC) |   |   |   |
+| Base Transceiver Station (BTS) |   |   |   |
+| Baseband |   |   |   |
+| Basic Input/Output System (BIOS) |   |   |   |
+| Basic Trading Area (BTA) |   |   |   |
+| Batch Processing |   |   |   |
+| Battery-powered Radio Frequency Identification (RFID) |   |   |   |
+| Baud |   |   |   |
+| Behavior Learning Engines (BLE) |   |   |   |
+| Behavioral/gestural Analytics |   |   |   |
+| Benchmarking |   |   |   |
+| Best Practice |   |   |   |
+| Best-in-class |   |   |   |
+| Best-of-breed |   |   |   |
+| Beta Testing |   |   |   |
+| Bid |   |   |   |
+| Big Data |   |   |   |
+| Bill Of Lading |   |   |   |
+| Bill of Materials (BOM) |   |   |   |
+| Bimodal |   |   |   |
+| Binary Code |   |   |   |
+| Binary Digit (bit) |   |   |   |
+| Binary Large Object (BLOB) |   |   |   |
+| Binary Runtime Environment For Wireless (BREW) |   |   |   |
+| Binary Synchronous Communications (BSC) |   |   |   |
+| Binary Table (byte) |   |   |   |
+| Biochips |   |   |   |
+| Bioinformatics |   |   |   |
+| Bioinformatics And Chemoinformatics |   |   |   |
+| Biomass |   |   |   |
+| Biometric ATMs |   |   |   |
+| Biometric Authentication |   |   |   |
+| Biometric Characteristic |   |   |   |
+| Bitcoin |   |   |   |
+| Blade Servers |   |   |   |
+| Blanking Interval |   |   |   |
+| Block Error Rate |   |   |   |
+| Blockchain |   |   |   |
+| Blog |   |   |   |
+| Blogging Platforms |   |   |   |
+| Bluetooth |   |   |   |
+| Bluetooth 3.0 (BT3.0) |   |   |   |
+| Bluetooth 4.0 (BT4.0) |   |   |   |
+| Bluetooth Low Energy (LE) |   |   |   |
+| Blu-ray |   |   |   |
+| Bookmark |   |   |   |
+| Bottleneck |   |   |   |
+| BPM Pure-play |   |   |   |
+| Brand Extension |   |   |   |
+| Brand Service Company |   |   |   |
+| Branded Content Management |   |   |   |
+| Bring Your Own Device (BYOD) |   |   |   |
+| Broadband |   |   |   |
+| Broadband Wireless Access (BWA) |   |   |   |
+| Broadcast |   |   |   |
+| Broadcast Storm |   |   |   |
+| Brownout |   |   |   |
+| Browser |   |   |   |
+| Buffer |   |   |   |
+| Bug |   |   |   |
+| Building-integrated Photovoltaics (BIPV) |   |   |   |
+| Build-operate-transfer |   |   |   |
+| Bundling |   |   |   |
+| Burst |   |   |   |
+| Business Activity Monitoring (BAM) |   |   |   |
+| Business Analytics |   |   |   |
+| Business Application Programming Interface (BAPI) |   |   |   |
+| Business Capability Modeling |   |   |   |
+| Business Continuity Management Planning (BCMP) |   |   |   |
+| Business Continuity Manager (BCM) |   |   |   |
+| Business Continuity Planning (BCP) |   |   |   |
+| Business Impact Analysis (BIA) |   |   |   |
+| Business Intelligence (BI) Platforms |   |   |   |
+| Business Intelligence (BI) Services |   |   |   |
+| Business Intelligence Competency Center (BICC) |   |   |   |
+| Business Pattern Recognition |   |   |   |
+| Business Process |   |   |   |
+| Business Process Analysis Tools |   |   |   |
+| Business Process As A Service (BPaaS) |   |   |   |
+| Business Process Automation (BPA) |   |   |   |
+| Business Process Management (BPM) |   |   |   |
+| Business Process Management (BPM) Standards |   |   |   |
+| Business Process Management Suites (BPMSs) |   |   |   |
+| Business Process Modeling (BPM) |   |   |   |
+| Business Process Outsourcing (BPO) |   |   |   |
+| Business Process Re-engineering (BPR) |   |   |   |
+| Business Process Utilities (BPUs) |   |   |   |
+| Business Rule Engines (BRE) |   |   |   |
+| Business Service Provider (BSP) |   |   |   |
+| BuySmart™ |   |   |   |
+| Byte Code |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### C
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| C (Programming Language) |   |   |   |
+| C++ |   |   |   |
+| C-band |   |   |   |
+| Cable Service Provider |   |   |   |
+| Cache |   |   |   |
+| Caching Server |   |   |   |
+| Call Center |   |   |   |
+| Call Detail Record (CDR) |   |   |   |
+| Call Processing |   |   |   |
+| Caller ID |   |   |   |
+| Campaign Management |   |   |   |
+| Capable-to-promise (CTP) Systems |   |   |   |
+| Capacity Requirements Planning (CRP) |   |   |   |
+| Capacity Utilization |   |   |   |
+| Captive Centers |   |   |   |
+| Car Connectivity Consortium (CCC) |   |   |   |
+| Care Delivery Organization (CDO) |   |   |   |
+| Cargo Portals |   |   |   |
+| Carrier Frequency |   |   |   |
+| Carrier Network Infrastructure (CNI) |   |   |   |
+| Carrier System |   |   |   |
+| Cascading Faults |   |   |   |
+| Case Management Solutions |   |   |   |
+| Case-based Reasoning (CBR) |   |   |   |
+| Catalog Content Management |   |   |   |
+| Category Management |   |   |   |
+| CDMA2000 |   |   |   |
+| Cell |   |   |   |
+| Cell Site |   |   |   |
+| Cell Splitting |   |   |   |
+| Cellular Radio |   |   |   |
+| Cellular To Wi-fi Authentication |   |   |   |
+| Certification Authority (ca) |   |   |   |
+| Change Management |   |   |   |
+| Channel |   |   |   |
+| Channel Analytics |   |   |   |
+| Channel Bank |   |   |   |
+| Channel Capacity |   |   |   |
+| Channel Integration |   |   |   |
+| Charge-coupled Device (ccd) |   |   |   |
+| Chatbot |   |   |   |
+| Check Digit |   |   |   |
+| Checksum |   |   |   |
+| Chief Information Officer (CIO) |   |   |   |
+| Chip Design Starts |   |   |   |
+| CIM (Common Information Model) |   |   |   |
+| CIM (Computer-Integrated Manufacturing) |   |   |   |
+| CIM (Customer Information Management) |   |   |   |
+| CIMA (Customer Information Management and Application) |   |   |   |
+| CIR (Committed Information Rate) |   |   |   |
+| Circuit |   |   |   |
+| Circuit Board |   |   |   |
+| Circuit Grade |   |   |   |
+| Circuit Switching |   |   |   |
+| CIRP (Cyber Incident Response Plan) |   |   |   |
+| CIRT (Cyber Incident Response Team) |   |   |   |
+| CISC (Complex Instruction Set Computer) |   |   |   |
+| CISSP (Certified Information Systems Security Professional) |   |   |   |
+| Citizen Developer |   |   |   |
+| CKO (Chief Knowledge Officer) |   |   |   |
+| CLA (Corporate License Agreement) |   |   |   |
+| Cladding |   |   |   |
+| Claims Analytics |   |   |   |
+| Claims Management Solutions |   |   |   |
+| Clamshell |   |   |   |
+| Class |   |   |   |
+| Class-based Queuing (CBQ) |   |   |   |
+| Classless Inter-domain Routing (CIDR) |   |   |   |
+| CLI (Common Language Infrastructure) |   |   |   |
+| Click-through |   |   |   |
+| Click-Through Rate (CTR) |   |   |   |
+| Clicks And Bricks |   |   |   |
+| Clickstream Analysis |   |   |   |
+| Client |   |   |   |
+| Client Appliance |   |   |   |
+| Client Computing Hardware Services |   |   |   |
+| Client Management Tools |   |   |   |
+| Client/server |   |   |   |
+| Climate-driven Forecasting |   |   |   |
+| Clinical Context Object Workgroup (CCOW) |   |   |   |
+| Clinical Data Repository (CDR) |   |   |   |
+| Clinical Information Modeling Initiative (CIMI) |   |   |   |
+| Clinical Kiosks |   |   |   |
+| Clinical Resource Management |   |   |   |
+| Clipping |   |   |   |
+| Clock, Clocking |   |   |   |
+| Closed-loop MRP (Closed-loop Material Requirements Planning) |   |   |   |
+| Closed-loop Performance Management (pm) |   |   |   |
+| Cloud Access Security Brokers (CASBs) |   |   |   |
+| Cloud Advertising |   |   |   |
+| Cloud Application Development (AD) Services |   |   |   |
+| Cloud Communications Service Provider |   |   |   |
+| Cloud Computing |   |   |   |
+| Cloud Core Financial Management Suites |   |   |   |
+| Cloud Email |   |   |   |
+| Cloud Encryption Gateways |   |   |   |
+| Cloud Engineering |   |   |   |
+| Cloud ERP for Product-centric Companies |   |   |   |
+| Cloud File Sharing |   |   |   |
+| Cloud Management Platforms |   |   |   |
+| Cloud Office Migration |   |   |   |
+| Cloud Printing Services (CPS) |   |   |   |
+| Cloud Security |   |   |   |
+| Cloud Security Gateways |   |   |   |
+| Cloud Service Elasticity |   |   |   |
+| Cloud Services Brokerage (CSB) |   |   |   |
+| Cloud Sourcing Deals Anatomy |   |   |   |
+| Cloud Strategy |   |   |   |
+| Cloud-based Grid Computing |   |   |   |
+| Cloudbursting |   |   |   |
+| Cluster Controller |   |   |   |
+| Clustered System |   |   |   |
+| Clustering |   |   |   |
+| CLV (Constant Linear Velocity) |   |   |   |
+| CM (Configuration Management) |   |   |   |
+| CM (Course Management) |   |   |   |
+| CMC (Common Messaging Calls) |   |   |   |
+| CME (Corporate and Major Enterprise) |   |   |   |
+| CMMS (Computerized Maintenance Management System) |   |   |   |
+| CMNS (Connection Mode Network Service) |   |   |   |
+| CMOL (CMIP Over LLC) |   |   |   |
+| CMOS (Complementary Metal-oxide Semiconductor) |   |   |   |
+| CMOT (CMIP Over TCP/IP) |   |   |   |
+| CMP (Cellular Multi-processing) |   |   |   |
+| CMS (Campaign Management System) |   |   |   |
+| CMV (Controlled Medical Vocabulary) |   |   |   |
+| CMYK (Sometimes YMCK or “Process Color Printing”) |   |   |   |
+| CNP (Certified Network Professional) |   |   |   |
+| CNS (Converged Network Services) |   |   |   |
+| Co-creation |   |   |   |
+| Coaxial Cable |   |   |   |
+| CoDA (Context Delivery Architecture) |   |   |   |
+| Codd’s Rule Zero |   |   |   |
+| Code Division Multiple Access (CDMA) |   |   |   |
+| Codec (coder/decoder) |   |   |   |
+| Cognitive Radio |   |   |   |
+| COL (Component Object Library) |   |   |   |
+| COLD (Computer Output To Laserdisc) |   |   |   |
+| Collaborative Commerce (C-commerce) |   |   |   |
+| Collective |   |   |   |
+| Collective Competency |   |   |   |
+| College Of Healthcare Information Management Executives (CHIME) |   |   |   |
+| Column-store Database Management System (DBMS) |   |   |   |
+| Com (Communications Port) |   |   |   |
+| COM (Component Object Model) |   |   |   |
+| COM (Computer Output to Microfilm or Microfiche) |   |   |   |
+| Comanagement Processes |   |   |   |
+| Combined Heat and Power (CHP) |   |   |   |
+| Commerce Everywhere |   |   |   |
+| Commerce Experiences |   |   |   |
+| Commerce Platform Servers |   |   |   |
+| Commercial Telematics |   |   |   |
+| Committed Access Rate (CAR) |   |   |   |
+| Common Access Card (CAC) |   |   |   |
+| Common Gateway Interface (CGI) |   |   |   |
+| Common Internet File System (CIFS) |   |   |   |
+| Communications as a Service (CaaS) |   |   |   |
+| Communications Oriented Production Information and Control System (COPICS) |   |   |   |
+| Communications Platform as a Service (CPaaS) |   |   |   |
+| Communications Service Provider (CSP) |   |   |   |
+| Communities |   |   |   |
+| Community |   |   |   |
+| Community Cloud |   |   |   |
+| Community Of Practice |   |   |   |
+| Compact Disc-Rewritable (CD-RW) |   |   |   |
+| Compandor |   |   |   |
+| Competencies |   |   |   |
+| Competency Center |   |   |   |
+| Competitive Intelligence (CI) |   |   |   |
+| Complementary Metal-oxide Semiconductor (CMOS) Radio Frequency (RF) Power Amplifiers (PAs) |   |   |   |
+| Complex-event Processing |   |   |   |
+| Compliance |   |   |   |
+| Compliance (commercial) |   |   |   |
+| Compliance (organizational) |   |   |   |
+| Compliance (regulatory) |   |   |   |
+| Component |   |   |   |
+| Component-based Development (CBD) |   |   |   |
+| Composite Application |   |   |   |
+| Composite Content Applications (CCAs) |   |   |   |
+| Composition |   |   |   |
+| Compound Annual Growth Rate (CAGR) |   |   |   |
+| Computational-fluid-dynamic (CFD) Analysis |   |   |   |
+| Computer Emergency Response Team (CERT) |   |   |   |
+| Computer-Aided Design and Drafting (CADD) |   |   |   |
+| Computer-Aided Engineering (CAE) |   |   |   |
+| Computer-Aided Manufacturing (CAM) |   |   |   |
+| Computer-Aided Software Engineering (CASE) |   |   |   |
+| Computer-based Physician Order Entry (CPOE) |   |   |   |
+| Computer-brain Interface |   |   |   |
+| Computing Appliance |   |   |   |
+| Computing Platform Products |   |   |   |
+| Concentrator |   |   |   |
+| Concurrent Backup |   |   |   |
+| Concurrent Database Restore |   |   |   |
+| Concurrent Engineering (CE) |   |   |   |
+| Concurrent Use |   |   |   |
+| Conditioning |   |   |   |
+| Conductor |   |   |   |
+| Configuration Auditing |   |   |   |
+| Configure, Price, Quote (CPQ) Application Suites |   |   |   |
+| Connect Time |   |   |   |
+| Connected Devices |   |   |   |
+| Connected Game Handhelds |   |   |   |
+| Connected Home |   |   |   |
+| Connected Imaging Devices |   |   |   |
+| Connected Portable Media Players (PMPs) |   |   |   |
+| Connected Portable Navigation Devices (PNDs) |   |   |   |
+| Connection |   |   |   |
+| Connection Admission Control (CAC) |   |   |   |
+| Connection-oriented Service |   |   |   |
+| Connectionless |   |   |   |
+| Connectionless Service |   |   |   |
+| Consent Management |   |   |   |
+| Console |   |   |   |
+| Constant Bit Rate (CBR) |   |   |   |
+| Consultative Selling |   |   |   |
+| Consumer Broadband Connections |   |   |   |
+| Consumer Broadband Services |   |   |   |
+| Consumer Digital Rights Management (DRM) |   |   |   |
+| Consumer Internet Services |   |   |   |
+| Consumer NAS (Consumer Network Attached Storage) |   |   |   |
+| Consumer Telematics |   |   |   |
+| Consumer Telepresence |   |   |   |
+| Consumer Voice Access Lines |   |   |   |
+| Consumer Voice Services |   |   |   |
+| Consumer Web Mashups |   |   |   |
+| Consumer-generated Media (CGM) |   |   |   |
+| Consumerization |   |   |   |
+| Contact Center |   |   |   |
+| Contact Center Infrastructure |   |   |   |
+| Contact Center System |   |   |   |
+| Contact Center Workforce Optimization |   |   |   |
+| Contact Database |   |   |   |
+| Contactless Card |   |   |   |
+| Contactless Payments |   |   |   |
+| Content Aggregation |   |   |   |
+| Content Aggregator |   |   |   |
+| Content Analytics |   |   |   |
+| Content And Applications Service Provider |   |   |   |
+| Content Awareness |   |   |   |
+| Content Delivery Networks (CDNs) |   |   |   |
+| Content Management (CM) |   |   |   |
+| Content Management Systems |   |   |   |
+| Content Marketing |   |   |   |
+| Content Marketing Platforms |   |   |   |
+| Content Optimization |   |   |   |
+| Content Provider |   |   |   |
+| Content Services Platform (CSP) |   |   |   |
+| Content Targeting |   |   |   |
+| Content, Communications And Collaboration |   |   |   |
+| Content-aware Data Loss Prevention (DLP) |   |   |   |
+| Contention |   |   |   |
+| Context |   |   |   |
+| Context Management Engine |   |   |   |
+| Context-aware Computing |   |   |   |
+| Context-aware Security |   |   |   |
+| Context-enriched Content |   |   |   |
+| Context-enriched Services |   |   |   |
+| Contextual Presence |   |   |   |
+| Contingent Workforce |   |   |   |
+| Continuity Check |   |   |   |
+| Continuous Controls Monitoring (CCM) |   |   |   |
+| Continuous Data Protection (CDP) |   |   |   |
+| Continuous Improvement |   |   |   |
+| Continuous Integration (CI) |   |   |   |
+| Continuous Intelligence |   |   |   |
+| Continuous Moves |   |   |   |
+| Continuous Operations |   |   |   |
+| Continuous Production |   |   |   |
+| Contract Life Cycle Management (CLM) |   |   |   |
+| Control Character |   |   |   |
+| Control Charts |   |   |   |
+| Control Code |   |   |   |
+| Control Objectives for Information and Related Technology (COBIT) |   |   |   |
+| Convergent Charging |   |   |   |
+| Conversational Media |   |   |   |
+| Cookie |   |   |   |
+| Cooling Management Systems |   |   |   |
+| Cooperative Processing |   |   |   |
+| Coordination Mechanics |   |   |   |
+| CORBA (Common Object Request Broker Architecture) |   |   |   |
+| CORE (Compare Operational Readiness Evaluation) |   |   |   |
+| Core Banking System |   |   |   |
+| Core Storage Management |   |   |   |
+| Corporate Communication |   |   |   |
+| Corporate Financial Planning Applications |   |   |   |
+| Corporate Performance Management (CPM) |   |   |   |
+| Corporate Website Activity |   |   |   |
+| CoS (Class of Service) |   |   |   |
+| COSE (Common Open Software Environment) |   |   |   |
+| Cost Optimization |   |   |   |
+| Cost To Serve |   |   |   |
+| Country Code |   |   |   |
+| CPA (Comprehensive Production Architecture) |   |   |   |
+| CPC (Collaborative Product Commerce) |   |   |   |
+| CPC (Cost Per Click) |   |   |   |
+| CPE Business DSL Router with Embedded DSL Modem |   |   |   |
+| CPE External Stand-alone Modem |   |   |   |
+| CPE Internal Modem |   |   |   |
+| CPEMH (Computer-aided Patient-entered Medical History) |   |   |   |
+| CPGA (Cost Per Gross Add) |   |   |   |
+| CPI (Continuous Process Improvement) |   |   |   |
+| CPM (Critical Path Method or Critical Path Management) |   |   |   |
+| CPM Suites |   |   |   |
+| CPMS (Corporate Property Management Software) |   |   |   |
+| CPP (Commercial Parallel Processing) |   |   |   |
+| CPR (Computer-based Patient Record) |   |   |   |
+| CPR System |   |   |   |
+| CPRI (Common Public Radio Interface) |   |   |   |
+| CPS (Certification Practice Statement) |   |   |   |
+| CPT (Current Procedural Terminology) |   |   |   |
+| CPU (Central Processing Unit) |   |   |   |
+| CQI (Continuous Quality Improvement) |   |   |   |
+| CRC (Cyclic Redundancy Check) |   |   |   |
+| Crisis Communication |   |   |   |
+| Crisis/incident Management (C/IM) Software |   |   |   |
+| Critical Ratio |   |   |   |
+| Critical-path Scheduling |   |   |   |
+| CRL (Certificate Revocation List) |   |   |   |
+| CRM Printing |   |   |   |
+| CRM Publishing |   |   |   |
+| Cross-certification |   |   |   |
+| Cross-compiler |   |   |   |
+| Cross-docking |   |   |   |
+| Cross-modulation |   |   |   |
+| Crowdsourced Application Testing Services |   |   |   |
+| Crowdsourcing |   |   |   |
+| CRUD (Create, Retrieve, Update, Delete) |   |   |   |
+| CSD (Circuit-switched Data) |   |   |   |
+| CSD (Consolidated Service Desk) |   |   |   |
+| CSF (Critical Success Factor) |   |   |   |
+| CSS (Customer Service and Support) |   |   |   |
+| CSU (Channel Service Unit) |   |   |   |
+| CTI (Computer-Telephony Integration) |   |   |   |
+| CTO (Chief Technology Officer) |   |   |   |
+| CTQ (Critical to Quality) |   |   |   |
+| CTX (Clear to Send) |   |   |   |
+| CTX (Corporate Trade Exchange) |   |   |   |
+| CU (Compliance Unit) |   |   |   |
+| CUG (Closed User Group) |   |   |   |
+| Cumulative Lead Time |   |   |   |
+| Current Loop |   |   |   |
+| Custom Key Set |   |   |   |
+| Customer Analytics |   |   |   |
+| Customer Communications Management (CCM) |   |   |   |
+| Customer Engagement Center (CEC) |   |   |   |
+| Customer Engagement Hub (ceh) |   |   |   |
+| Customer Experience |   |   |   |
+| Customer Experience Management (CEM) |   |   |   |
+| Customer Gateways |   |   |   |
+| Customer Identity and Access Management (CIAM) |   |   |   |
+| Customer Information File (CIF) |   |   |   |
+| Customer Lifetime Value |   |   |   |
+| Customer Premises Equipment (CPE) |   |   |   |
+| Customer Relationship Management (CRM) |   |   |   |
+| Customer Relationship Management (CRM) Analytics |   |   |   |
+| Customer Self-service And Support |   |   |   |
+| Customized Network Management |   |   |   |
+| Cyber Library |   |   |   |
+| Cybersecurity |   |   |   |
+| Cybersecurity Policies |   |   |   |
+| Cycle Time |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### D
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| DAB+ (Digital Audio Broadcasting Plus) |   |   |   |
+| Daemon |   |   |   |
+| Daisy-Chaining |   |   |   |
+| DAP (Directory Access Protocol) |   |   |   |
+| DAP (Distributed Application Platform) |   |   |   |
+| DAPP (Data Analysis and Provider Profiling) |   |   |   |
+| Dark Data |   |   |   |
+| Dark Fiber |   |   |   |
+| DARPA (Defense Advanced Research Projects Agency) |   |   |   |
+| DAS (Distributed Antenna System) |   |   |   |
+| DAS (Dual-Attached Station) |   |   |   |
+| DASD (Direct-Access Storage Device) |   |   |   |
+| DASH7 |   |   |   |
+| Dashboards |   |   |   |
+| DAT (Digital Audiotape) |   |   |   |
+| DAT (Dynamic Address Translation) |   |   |   |
+| Data And Analytics |   |   |   |
+| Data Broker |   |   |   |
+| Data Center |   |   |   |
+| Data Center Bridging (DCB) |   |   |   |
+| Data Center Infrastructure Management (DCIM) |   |   |   |
+| Data Center Outsourcing (DCO) |   |   |   |
+| Data Center Storage Encryption |   |   |   |
+| Data Deduplication |   |   |   |
+| Data Dependency Mapping |   |   |   |
+| Data Governance |   |   |   |
+| Data Integration |   |   |   |
+| Data Lake |   |   |   |
+| Data Literacy |   |   |   |
+| Data Loss Protection |   |   |   |
+| Data Management (DM) |   |   |   |
+| Data Management Platform (DMP) |   |   |   |
+| Data Mining |   |   |   |
+| Data Monetization |   |   |   |
+| Data Ops |   |   |   |
+| Data Preparation |   |   |   |
+| Data Profiling |   |   |   |
+| Data Quality Software as a Service (SaaS) |   |   |   |
+| Data Quality Tools |   |   |   |
+| Data Replication |   |   |   |
+| Data Scientist |   |   |   |
+| Data Strategy |   |   |   |
+| Data Synchronization |   |   |   |
+| Data Warehouse |   |   |   |
+| Data Wiping |   |   |   |
+| Database Activity Monitoring (DAM) |   |   |   |
+| Database Appliances |   |   |   |
+| Database Audit and Protection (DAP) |   |   |   |
+| Database Design |   |   |   |
+| Database Encryption |   |   |   |
+| DataOps |   |   |   |
+| DBMS (Database Management System) |   |   |   |
+| DBMS Management |   |   |   |
+| DBS (Direct Broadcast Satellite) |   |   |   |
+| DDBMS (Distributed Database Management System) |   |   |   |
+| DDL (Data Definition Language) |   |   |   |
+| DDoS Mitigation Services |   |   |   |
+| Deal Sweet Spot Analysis |   |   |   |
+| Decision Intelligence |   |   |   |
+| Demand Forecasting |   |   |   |
+| Demand Pattern Analysis |   |   |   |
+| Demand Response (DR) |   |   |   |
+| Demand Signal Repository (DSR) |   |   |   |
+| Demand-driven Material Requirements Planning (DDMRP) |   |   |   |
+| Demand-driven Value Network (DDVN) |   |   |   |
+| Deming PDCA Cycle |   |   |   |
+| Deployment |   |   |   |
+| Descriptive Analytics |   |   |   |
+| Design Thinking |   |   |   |
+| Design-to-demand |   |   |   |
+| Desktop as a Service (DaaS) |   |   |   |
+| Desktop Outsourcing |   |   |   |
+| Desktop Virtualization |   |   |   |
+| DEVA (Document-Enabled Vertical Application) |   |   |   |
+| Development And Integration Services |   |   |   |
+| Device Resource Management |   |   |   |
+| Device-embedded Biometric Authentication |   |   |   |
+| DevOps |   |   |   |
+| DevSecOps |   |   |   |
+| DFSS (Design For Six Sigma) |   |   |   |
+| DFX (Design for X) |   |   |   |
+| DGT (Directorate General of Telecommunications, Taiwan) |   |   |   |
+| Diagnostic Analytics |   |   |   |
+| DIF (Data Interchange Format) |   |   |   |
+| Digital |   |   |   |
+| Digital Ad Operations Platforms |   |   |   |
+| Digital Agencies |   |   |   |
+| Digital Asset Management (DAM) |   |   |   |
+| Digital Audio Broadcasting (DAB) |   |   |   |
+| Digital Business |   |   |   |
+| Digital Business Transformation |   |   |   |
+| Digital Commerce |   |   |   |
+| Digital Commerce Experience |   |   |   |
+| Digital Connectivism |   |   |   |
+| Digital Cross-Connect (DXC) |   |   |   |
+| Digital Customer |   |   |   |
+| Digital Dial Tone |   |   |   |
+| Digital Disruption |   |   |   |
+| Digital Disruptor |   |   |   |
+| Digital Divide |   |   |   |
+| Digital Experience Platform (DXP) |   |   |   |
+| Digital Forensics |   |   |   |
+| Digital Loopback |   |   |   |
+| Digital Marketer |   |   |   |
+| Digital Marketing |   |   |   |
+| Digital Marketing Hub |   |   |   |
+| Digital Marketing Strategy |   |   |   |
+| Digital Modem |   |   |   |
+| Digital Network |   |   |   |
+| Digital Optimization |   |   |   |
+| Digital Pathology Scanners |   |   |   |
+| Digital Signature |   |   |   |
+| Digital Switching |   |   |   |
+| Digital Thick Wallet Solutions |   |   |   |
+| Digital Thin Wallet Solutions |   |   |   |
+| Digital Transformation |   |   |   |
+| Digital Transformation Consulting (DTC) |   |   |   |
+| Digital Twin |   |   |   |
+| Digital Wallet |   |   |   |
+| Digital Watermarking |   |   |   |
+| Digital Workplace |   |   |   |
+| Digitalization |   |   |   |
+| Digitization |   |   |   |
+| Digitize |   |   |   |
+| Direct Channel |   |   |   |
+| Direct Chip Cooling |   |   |   |
+| Directed Speech Recognition |   |   |   |
+| Directory Services |   |   |   |
+| Dirty Protocols |   |   |   |
+| Disaster Recovery (DR) |   |   |   |
+| Disciplined Multisourcing |   |   |   |
+| Discrete Manufacturing |   |   |   |
+| Discretionary Security Controls |   |   |   |
+| Discussion Database |   |   |   |
+| Discussion Forum |   |   |   |
+| Dish/stirling Engine |   |   |   |
+| Distributed Cloud |   |   |   |
+| Distributed Computing |   |   |   |
+| Distributed Data Management |   |   |   |
+| Distributed Database |   |   |   |
+| Distributed Function |   |   |   |
+| Distributed Generation (DG) |   |   |   |
+| Distributed Power Generation |   |   |   |
+| Distributed Tape For Backup And Archiving |   |   |   |
+| Distributed Version Control System (DVCS) |   |   |   |
+| DMAIC (Define, Measure, Analyze, Improve, Control) |   |   |   |
+| DMB (Digital Multimedia Broadcasting) |   |   |   |
+| DNA Logic |   |   |   |
+| Dock Scheduling |   |   |   |
+| Document Management (DM) |   |   |   |
+| Document Management Hardware Services |   |   |   |
+| DoJa (DoCoMo Java) |   |   |   |
+| Domain Name |   |   |   |
+| Downlink |   |   |   |
+| Download |   |   |   |
+| Downtime |   |   |   |
+| DPMO (Defects Per Million Opportunities) |   |   |   |
+| DPO (Defects Per Opportunity) |   |   |   |
+| DPU (Defects Per Unit) |   |   |   |
+| DR (Distributed Request) |   |   |   |
+| DRM (Digital Rights Management) |   |   |   |
+| DRM (Distributed Resource Management) |   |   |   |
+| DRP (Disaster Recovery Planning) |   |   |   |
+| DRP (Distribution Requirements Planning) |   |   |   |
+| Drum, Buffer, Rope |   |   |   |
+| DSL (Digital Subscriber Line) |   |   |   |
+| DSL/Cable-sharing Residential/Small-office Gateway/Router |   |   |   |
+| DSM (Distributed System Management) |   |   |   |
+| DTH (Direct To Home) |   |   |   |
+| Dual Mode |   |   |   |
+| Dual-band |   |   |   |
+| Dual-band Network |   |   |   |
+| Dual-view Displays |   |   |   |
+| Dumb Terminal |   |   |   |
+| Dye Sublimation |   |   |   |
+| Dye-sensitized Solar Cells (DSSCs) |   |   |   |
+| Dynamic Application Security Testing (DAST) |   |   |   |
+| Dynamic Business Process Management (BPM) |   |   |   |
+| Dynamic Content |   |   |   |
+| Dynamic Data Masking (DDM) |   |   |   |
+| Dynamic Routing |   |   |   |
+| Dynamic Web Application Tools |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### E
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| E1 |   |   |   |
+| Earth Station |   |   |   |
+| E-book Readers (E-readers) |   |   |   |
+| E-Business |   |   |   |
+| E-Commerce |   |   |   |
+| Edge |   |   |   |
+| Edge Computing |   |   |   |
+| E-Discovery Software |   |   |   |
+| Elastic Multitenancy |   |   |   |
+| E-Learning |   |   |   |
+| Electro Mobility (e-Mobility) |   |   |   |
+| Electronic Bill Presentment and Payment (EBPP) |   |   |   |
+| Electronic Coupons (e-Coupons) |   |   |   |
+| Electronic Customer Relationship Management (e-CRM) |   |   |   |
+| Electronic Data Capture (EDC) |   |   |   |
+| Electronic Forms (e-Forms) |   |   |   |
+| Electronic Health Record (EHR) |   |   |   |
+| Electronic Paper |   |   |   |
+| Electronic Prescribing (e-Prescribing) |   |   |   |
+| Electronic Signature (e-Signature) |   |   |   |
+| Electronic Waste (e-Waste) |   |   |   |
+| Electrovibration |   |   |   |
+| E-mail Security Boundary |   |   |   |
+| Embedded Analytics |   |   |   |
+| Embedded Cellular Data |   |   |   |
+| Embedded Software And Electronics Design |   |   |   |
+| Emergent Structures |   |   |   |
+| Emerging Data Protection Schemes |   |   |   |
+| Emotion Detection |   |   |   |
+| Employee Engagement |   |   |   |
+| Encapsulation |   |   |   |
+| Encryption |   |   |   |
+| Endpoint Protection Platform (EPP) |   |   |   |
+| Energy Management Systems (EMSs) |   |   |   |
+| Energy Trading and Risk Management (ETRM) |   |   |   |
+| Enhanced Data Rates for Global Evolution (EDGE) |   |   |   |
+| Enhanced E-books |   |   |   |
+| Enhanced Messaging Service (EMS) |   |   |   |
+| Enhanced Network Delivery |   |   |   |
+| Enhanced Observed Time Difference (e-otd) |   |   |   |
+| Ensemble Interactions |   |   |   |
+| Ensemble Programming |   |   |   |
+| Enterprise Application Outsourcing (eao) |   |   |   |
+| Enterprise Application Software |   |   |   |
+| Enterprise Applications |   |   |   |
+| Enterprise Architecture (EA) |   |   |   |
+| Enterprise Architecture (EA) Assurance |   |   |   |
+| Enterprise Architecture (EA) Tools |   |   |   |
+| Enterprise Asset Management (EAM) |   |   |   |
+| Enterprise Content Management (ECM) |   |   |   |
+| Enterprise Context |   |   |   |
+| Enterprise Fraud Management (EFM) |   |   |   |
+| Enterprise Information Architecture (EIA) |   |   |   |
+| Enterprise Information Archiving (EIA) |   |   |   |
+| Enterprise Information Management (EIM) |   |   |   |
+| Enterprise Metadata Management (EMM) |   |   |   |
+| Enterprise Mobile Communications Gateway (EMCG) |   |   |   |
+| Enterprise Nervous System (ENS) |   |   |   |
+| Enterprise Performance Management (EPM) |   |   |   |
+| Enterprise Portal (EP) |   |   |   |
+| Enterprise Resource Planning (ERP) |   |   |   |
+| Enterprise Risk Management |   |   |   |
+| Enterprise Security Intelligence (ESI) |   |   |   |
+| Enterprise Social Software |   |   |   |
+| Enterprise Solutions |   |   |   |
+| Enterprise Technology Architecture (ETA) |   |   |   |
+| Enterprise Unified Communications Infrastructure |   |   |   |
+| Enterprise-class |   |   |   |
+| Enterprise-grade |   |   |   |
+| Entitlement Management |   |   |   |
+| Entity Resolution and Analysis (ER&A) |   |   |   |
+| Entry-level Smartphone |   |   |   |
+| Environmental Health and Safety (EH&S) Applications |   |   |   |
+| E-Procurement |   |   |   |
+| Erasable Paper Printing Systems |   |   |   |
+| Ethernet |   |   |   |
+| Ethernet Services |   |   |   |
+| ETSI (European Telecommunications Standards Institute) |   |   |   |
+| European Non-life-insurance Policy Administration Systems |   |   |   |
+| Event, Fault And Log Management |   |   |   |
+| Event-driven Architecture (EDA) |   |   |   |
+| Event-triggered Marketing |   |   |   |
+| Expert System |   |   |   |
+| Expertise Location |   |   |   |
+| Extensible Authentication Protocol (EAP) |   |   |   |
+| Extensible Business Reporting Language (XBRL) |   |   |   |
+| Extensible Markup Language (XML) |   |   |   |
+| Extensible Stylesheet Language (XSL) |   |   |   |
+| Extensible Stylesheet Language Transformations (XSLT) |   |   |   |
+| External Services Provider (ESP) |   |   |   |
+| External Social Software |   |   |   |
+| Extranet |   |   |   |
+| Extreme Low-energy Servers |   |   |   |
+| Eye Tracking |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### F
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Fabric Computing |   |   |   |
+| Fabric-based Computing (FBC) |   |   |   |
+| Fabric-Based Infrastructure (FBI) |   |   |   |
+| Facebook Commerce (F-commerce) |   |   |   |
+| Factory Scheduling |   |   |   |
+| Fast-packet Switching |   |   |   |
+| Fault Detection And Isolation |   |   |   |
+| FCC (Federal Communications Commission) |   |   |   |
+| FDD (Frequency Division Duplex) |   |   |   |
+| FDDI (Fiber Distributed Data Interface) |   |   |   |
+| Feature Smartphone |   |   |   |
+| Federated Application Life Cycle Management (FALM) |   |   |   |
+| Federated Identity Management |   |   |   |
+| Federated Search |   |   |   |
+| Femtocell |   |   |   |
+| Femtocells |   |   |   |
+| FHMA (Frequency-hopping Multiple Access) |   |   |   |
+| Fiber Optics |   |   |   |
+| Fibre Channel Over Ethernet (FCoE) |   |   |   |
+| Field Service Management |   |   |   |
+| Field Service Management Software |   |   |   |
+| File Server |   |   |   |
+| Finance And Accounting Business Process Outsourcing Service Providers |   |   |   |
+| Financial Analytical Applications |   |   |   |
+| Financial Footprint |   |   |   |
+| Financial Planning and Analysis (FP&A) |   |   |   |
+| Finished Branded Product |   |   |   |
+| Finite Loading |   |   |   |
+| Fintech |   |   |   |
+| Firecall |   |   |   |
+| Firewall |   |   |   |
+| First Generation (1G or Analog) |   |   |   |
+| Fixed Wireless |   |   |   |
+| Fixed-line Carrier |   |   |   |
+| Flexible Media And Conferencing Switching |   |   |   |
+| FM (Facilities Management) |   |   |   |
+| FM (Frequency Modulation) |   |   |   |
+| FMC (Fixed-Mobile Convergence) |   |   |   |
+| FMEA (Failure Modes Effects Analysis) |   |   |   |
+| FMS (Flexible Manufacturing System) |   |   |   |
+| Folksonomies (Social Tagging) |   |   |   |
+| FOMA (Freedom of Mobile Multimedia Access) |   |   |   |
+| Footfall Analysis |   |   |   |
+| Foreign/Global Trade Compliance (GTC) |   |   |   |
+| Forensic Software |   |   |   |
+| Formula/recipe Management |   |   |   |
+| FP (Function Point) |   |   |   |
+| FPD (Flat Panel Display) |   |   |   |
+| FPY (First Pass Yield) |   |   |   |
+| Framework |   |   |   |
+| Framing |   |   |   |
+| Fraud Detection |   |   |   |
+| Free Cooling (economizers) |   |   |   |
+| Frequency |   |   |   |
+| Frequency Band |   |   |   |
+| Frequency Reuse |   |   |   |
+| FTP (File Transfer Protocol) |   |   |   |
+| FTTH (Fiber to the Home) |   |   |   |
+| FTTP (Fiber to the Premises) |   |   |   |
+| Fuel Cell |   |   |   |
+| Functional Programming Languages |   |   |   |
+| Fuzzy Logic |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### G
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Gain Sharing |   |   |   |
+| Galileo |   |   |   |
+| Gallium Nitride (GaN) |   |   |   |
+| Gamification |   |   |   |
+| GAN (Generic Access Network) |   |   |   |
+| Gateway |   |   |   |
+| Gateway (Transcoding) Server |   |   |   |
+| Gateway Server |   |   |   |
+| Gaze Control |   |   |   |
+| Gemba |   |   |   |
+| Gemba Walk |   |   |   |
+| Generation Scheduling |   |   |   |
+| Geo (Geosynchronous Orbit) |   |   |   |
+| Geofencing |   |   |   |
+| Geographic Information System (GIS) |   |   |   |
+| Geospatial Mashups |   |   |   |
+| Geostationary Satellite |   |   |   |
+| Geothermal Cooling For Data Centers |   |   |   |
+| Geothermal Power Generation |   |   |   |
+| Gesture Control |   |   |   |
+| Gesture Recognition |   |   |   |
+| Global Delivery |   |   |   |
+| Global Delivery Model |   |   |   |
+| Global Positioning System (GPS) |   |   |   |
+| Global Regulatory Management |   |   |   |
+| Glonass |   |   |   |
+| Governance, Risk and Compliance (GRC) |   |   |   |
+| Grant Management Solutions |   |   |   |
+| Granularity |   |   |   |
+| Gray Market |   |   |   |
+| Gray Scale |   |   |   |
+| Green Belt |   |   |   |
+| Green Money |   |   |   |
+| Grid Computing |   |   |   |
+| Grid Computing Without Using Public Cloud Computers |   |   |   |
+| Gross New Connections |   |   |   |
+| Ground Segment |   |   |   |
+| Group Buying |   |   |   |
+| Groupware |   |   |   |
+| Guard Interval |   |   |   |
+| GUI (Graphical User Interface) |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### H
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Hadoop |   |   |   |
+| Hadoop Operations Providers |   |   |   |
+| Hand-off |   |   |   |
+| Handwriting Recognition |   |   |   |
+| Haptics |   |   |   |
+| Haptics In Automotive |   |   |   |
+| Hard-Disk Drive (HDD) |   |   |   |
+| Hardware And Software Maintenance Services |   |   |   |
+| Hardware Maintenance And Support Services |   |   |   |
+| HCM Suite Applications |   |   |   |
+| HCPCS (Healthcare Procedural Classification System) |   |   |   |
+| HDML (Handheld Device Markup Language) |   |   |   |
+| Head-mounted Displays (HMDs) |   |   |   |
+| Head-Up Display (HUD) |   |   |   |
+| Health Information Exchange (HIE) |   |   |   |
+| HEDIS (Health Plan Employer Data and Information Set) |   |   |   |
+| Heijunka |   |   |   |
+| Help Desk Management |   |   |   |
+| Heterogeneous Architecture |   |   |   |
+| HI (Healthcare Infomediary) |   |   |   |
+| Hierarchical Database |   |   |   |
+| Hierarchical Storage Management And Archive Software |   |   |   |
+| High Performance Workplace |   |   |   |
+| High Tj Systems |   |   |   |
+| High-concentration Photovoltaics (PV) |   |   |   |
+| High-definition (HD) Voice |   |   |   |
+| Higher Education Catalog And Curriculum Management Solutions |   |   |   |
+| Higher Education Student Information Systems |   |   |   |
+| Highlight Color |   |   |   |
+| High-performance Computing (HPC) |   |   |   |
+| High-speed Color Inkjet Printing |   |   |   |
+| High-temperature Superconductivity |   |   |   |
+| HIPAA (Health Insurance Portability and Accountability Act) |   |   |   |
+| HIS (Hospital Information System or Healthcare Information System) |   |   |   |
+| Historian Software |   |   |   |
+| Hit |   |   |   |
+| HLR (Home Location Register) |   |   |   |
+| Home Health Monitoring |   |   |   |
+| Home Hub |   |   |   |
+| Home Server |   |   |   |
+| Home-Area Network (HAN) |   |   |   |
+| Hoshin |   |   |   |
+| Hosted PC Virtualization Software |   |   |   |
+| Hosted Virtual Desktops (HVD) |   |   |   |
+| Hot Spot |   |   |   |
+| HR Disintermediation |   |   |   |
+| HR Shared-service-center Tools |   |   |   |
+| HRMS (Human Resource Management System) |   |   |   |
+| HSM (Hierarchical Storage Management) |   |   |   |
+| HTAP-enabling In-memory Computing Technologies |   |   |   |
+| HTML (Hypertext Markup Language) |   |   |   |
+| HTML5 |   |   |   |
+| HTTP 2.0 |   |   |   |
+| Hub |   |   |   |
+| Human Augmentation |   |   |   |
+| Human Capital Management (HCM) |   |   |   |
+| Human Capital Management (HCM) Application Services |   |   |   |
+| Human Capital Management (HCM) In Social Software |   |   |   |
+| Humanitarian Disaster Relief |   |   |   |
+| Hundred Call Seconds (CCS) |   |   |   |
+| Hybrid Cloud Computing |   |   |   |
+| Hybrid Electric Vehicles (HEVs) |   |   |   |
+| Hybrid Modeling |   |   |   |
+| Hybrid MPLS (Internet WAN) |   |   |   |
+| Hybrid Storage Gateway Appliance |   |   |   |
+| Hybrid Thinking |   |   |   |
+| Hybrid Unified Communications and Collaboration (UCC) |   |   |   |
+| Hydrogen Economy |   |   |   |
+| Hydrogen Fuel Cell Vehicles |   |   |   |
+| Hype Cycle |   |   |   |
+| Hyperlink |   |   |   |
+| Hyperprotocol |   |   |   |
+| Hypertext |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### I
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| I/O (Input/Output) |   |   |   |
+| I/O Bound |   |   |   |
+| I/O Channel |   |   |   |
+| IAE (Integrated Applications Environment) |   |   |   |
+| IAM as a Service (IAMaaS) |   |   |   |
+| IB (Integration Broker) |   |   |   |
+| ICD-10 Adoption Technology |   |   |   |
+| iChat |   |   |   |
+| IDA (Infocomm Development Authority of Singapore) |   |   |   |
+| IDARS (Integrated Document Archive and Retrieval System) |   |   |   |
+| IDE (Integrated Development Environment) |   |   |   |
+| Idea Engine |   |   |   |
+| Idea Management |   |   |   |
+| IDEF (Integrated Definition Methodology) |   |   |   |
+| IDEN (Integrated Digital Enhanced Network) |   |   |   |
+| Identity And Access Intelligence |   |   |   |
+| Identity and Access Management (IAM) |   |   |   |
+| Identity Management |   |   |   |
+| Identity-aware Networks (IAN) |   |   |   |
+| Identity-proofing Services |   |   |   |
+| IDL (Interface Definition Language) |   |   |   |
+| IDM (Integrated Document Management) |   |   |   |
+| IDN (Integrated Digital Network) |   |   |   |
+| IDS (Integrated Delivery System) |   |   |   |
+| IDS (Internet Document Security) |   |   |   |
+| IE (Information Engineering) |   |   |   |
+| IEEE (Institute of Electrical and Electronics Engineers) |   |   |   |
+| IEFM (Integrated E-form Management) |   |   |   |
+| ILPT (Instructor-led Practical Training) |   |   |   |
+| ILTC (Instructor-led Training in the Classroom) |   |   |   |
+| IM (Information Management) |   |   |   |
+| IM (Instant Messaging) |   |   |   |
+| Image Recognition |   |   |   |
+| IMEI (International Mobile Equipment Identifier) |   |   |   |
+| Immersive Learning Environments (ILEs) |   |   |   |
+| IMS (IP Multimedia Subsystem) |   |   |   |
+| IMSI (International Mobile Subscriber Identity) |   |   |   |
+| IMT-2000 (International Mobile Telecommunications-2000) |   |   |   |
+| IMT-A (International Mobile Telecommunications Advanced) |   |   |   |
+| Incentive Compensation Management |   |   |   |
+| Industrial Iot Platforms |   |   |   |
+| Industrialized IT Services |   |   |   |
+| Infocentric |   |   |   |
+| Infonomics |   |   |   |
+| Information (knowledge) Assets |   |   |   |
+| Information Capabilities Framework |   |   |   |
+| Information Cards |   |   |   |
+| Information Delivery |   |   |   |
+| Information Dispersal Algorithms |   |   |   |
+| Information Governance |   |   |   |
+| Information Life Cycle Management (ILM) |   |   |   |
+| Information Stewardship Applications |   |   |   |
+| Information Technology (IT) |   |   |   |
+| Information-centric Endpoint And Mobile Protection |   |   |   |
+| Infrastructure as a Service (IaaS) |   |   |   |
+| Infrastructure Software |   |   |   |
+| Infrastructure-Led Disruption |   |   |   |
+| Innovation Management |   |   |   |
+| In-rack Cooling |   |   |   |
+| In-row Cooling |   |   |   |
+| Insight Engines |   |   |   |
+| Inspect |   |   |   |
+| Instant Communications Security And Compliance |   |   |   |
+| In-store Logistics Systems |   |   |   |
+| Instruction Set Virtualization |   |   |   |
+| Integrated Carrier |   |   |   |
+| Integrated HR Service Delivery Solutions |   |   |   |
+| Integrated Marketing Management |   |   |   |
+| Integrated Risk Management (IRM) |   |   |   |
+| Integrated Software |   |   |   |
+| Integration |   |   |   |
+| Integration Appliances |   |   |   |
+| Integration as a Service (IaaS) |   |   |   |
+| Integration Brokerage (IB) |   |   |   |
+| Integration Platform as a Service (iPaaS) |   |   |   |
+| Intellectual Property |   |   |   |
+| Interactive Visualization |   |   |   |
+| Intercompany Multimodal Unified Communications (UC) |   |   |   |
+| Internet |   |   |   |
+| Internet Message Access Protocol (IMAP) |   |   |   |
+| Internet Of Things (iot) |   |   |   |
+| Internet Protocol Television (IPTV) |   |   |   |
+| Internet Protocol Version 6 (IPv6) |   |   |   |
+| Internet Radio |   |   |   |
+| Internet Speed Test |   |   |   |
+| Internet Telephony |   |   |   |
+| Internet TV |   |   |   |
+| Interoperability |   |   |   |
+| Interoperable Storage Encryption |   |   |   |
+| Intranet |   |   |   |
+| Introspection |   |   |   |
+| IoT Integration |   |   |   |
+| IoT Platforms |   |   |   |
+| IoT Security |   |   |   |
+| IoT Service |   |   |   |
+| IP (Internet Protocol) |   |   |   |
+| IP Address (Internet Protocol Address) |   |   |   |
+| IP Centrex Platforms |   |   |   |
+| IP Datacasting |   |   |   |
+| IP Extension Line |   |   |   |
+| IP Multimedia Subsystem (IMS) |   |   |   |
+| IP Multimedia Subsystem Session Control Layer |   |   |   |
+| IP Seat License |   |   |   |
+| IP Telephony |   |   |   |
+| IPA (Integrated Publishing Architecture) |   |   |   |
+| IP-enabled PBX |   |   |   |
+| IP-enabled PBX/KTS IP Extension Line |   |   |   |
+| iPhone |   |   |   |
+| IP-PBX |   |   |   |
+| IP-Service Control Points |   |   |   |
+| IRD (Integrated Receiver Decoder) |   |   |   |
+| IRDA (Infrared Data Association) |   |   |   |
+| IRR (Internal Rate of Return) |   |   |   |
+| ISDN (Integrated Services Digital Network) |   |   |   |
+| ISO (International Organization for Standardization) |   |   |   |
+| ISO (Internet Sales Outlet) |   |   |   |
+| ISO 9000 |   |   |   |
+| ISP (Internet Service Provider) |   |   |   |
+| ISV (Independent Software Vendor) |   |   |   |
+| IT Asset Management (ITAM) |   |   |   |
+| IT Budget |   |   |   |
+| IT Chargeback |   |   |   |
+| IT Consulting |   |   |   |
+| IT Consulting Services |   |   |   |
+| IT Decision Support |   |   |   |
+| IT Governance (ITG) |   |   |   |
+| IT Incident Management |   |   |   |
+| IT Industrialization |   |   |   |
+| IT Infrastructure |   |   |   |
+| IT Infrastructure Utility (IU) |   |   |   |
+| IT Management |   |   |   |
+| IT Management Services |   |   |   |
+| IT Operations |   |   |   |
+| IT Operations Management (ITOM) Software |   |   |   |
+| IT Outsourcing |   |   |   |
+| IT Resilience Orchestration |   |   |   |
+| IT Risk |   |   |   |
+| IT Service Desk (ITSD) |   |   |   |
+| IT Service Management (ITSM) Tools |   |   |   |
+| IT Services |   |   |   |
+| IT Services Sourcing |   |   |   |
+| IT Services Strategic Sourcing |   |   |   |
+| IT Strategy |   |   |   |
+| IT/OT Alignment |   |   |   |
+| IT/OT Integration |   |   |   |
+| ITIL |   |   |   |
+| ITU (International Telecommunication Union) |   |   |   |
+| IUS (Infrastructure Utility Services) |   |   |   |
+| IVR (Interactive Voice Response) |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### J
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Java |   |   |   |
+| Java Applet |   |   |   |
+| Java ME (Java Platform, Micro Edition) |   |   |   |
+| Java Platform Ad Tools |   |   |   |
+| Java Platform, Enterprise Edition (Java EE) |   |   |   |
+| Java Servlet |   |   |   |
+| Javascript |   |   |   |
+| Jidoka |   |   |   |
+| JIT (Just in Time) |   |   |   |
+| Job Scheduling |   |   |   |
+| Jukebox |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### K
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| K-12 Student Information Systems |   |   |   |
+| K-map (Knowledge Map) |   |   |   |
+| Ka-band (Kurtz-above Band) |   |   |   |
+| Kaikaku |   |   |   |
+| Kaizen |   |   |   |
+| Kanban |   |   |   |
+| Kano Model |   |   |   |
+| KCC (Korea Communications Commission) |   |   |   |
+| Kerfless Wafering |   |   |   |
+| Kernel |   |   |   |
+| Key Performance Indicator (KPI) |   |   |   |
+| KM Strategy |   |   |   |
+| Knowledge Access |   |   |   |
+| Knowledge Architect |   |   |   |
+| Knowledge Assets |   |   |   |
+| Knowledge Audit |   |   |   |
+| Knowledge Base |   |   |   |
+| Knowledge Capital |   |   |   |
+| Knowledge Capture |   |   |   |
+| Knowledge Community |   |   |   |
+| Knowledge Content Owners |   |   |   |
+| Knowledge Content Specialists |   |   |   |
+| Knowledge Management (KM) |   |   |   |
+| Knowledge Organization |   |   |   |
+| Knowledge Representation |   |   |   |
+| Knowledge Sharing |   |   |   |
+| Knowledge Use |   |   |   |
+| Knowledge Users |   |   |   |
+| Knowledge Work Management |   |   |   |
+| Knowledge Workplace |   |   |   |
+| Kohai |   |   |   |
+| KPIV (Key Process Input Variable) |   |   |   |
+| KPOV (Key Process Output Variable) |   |   |   |
+| Ku-band (Kurtz-under Band) |   |   |   | 
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### L
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Labeling And Artwork Management |   |   |   |
+| Labor Management System |   |   |   |
+| Laboratory Information Management System (LIMS) |   |   |   |
+| Lagging And Leading Key Performance Indicators |   |   |   |
+| LAN (Local-Area Network) |   |   |   |
+| LAN Bridging |   |   |   |
+| Language-oriented Development Environments (Distributed Platforms, Proprietary) |   |   |   |
+| Language-oriented Development Environments (Mainframe, Mini and Midrange) |   |   |   |
+| Laser |   |   |   |
+| Laser Disk |   |   |   |
+| Latency |   |   |   |
+| L-band |   |   |   |
+| LBS (Location-based Services) |   |   |   |
+| LCD (Liquid Crystal Display) |   |   |   |
+| LCD (Lowest Common Denominator) |   |   |   |
+| LCR (Lifetime Clinical Record) |   |   |   |
+| LDAP (Lightweight Directory Access Protocol) |   |   |   |
+| Lean |   |   |   |
+| Lean Enterprise |   |   |   |
+| Lean Thinking |   |   |   |
+| Learning Stack |   |   |   |
+| LED (Light-Emitting Diode) |   |   |   |
+| Legacy Application Or System |   |   |   |
+| LEO (Low Earth Orbit) |   |   |   |
+| Level |   |   |   |
+| Library |   |   |   |
+| License |   |   |   |
+| Life Insurance Policy Administration Systems |   |   |   |
+| Life Span |   |   |   |
+| Light-emitting Polymer |   |   |   |
+| Lights-Out Recovery Operations Management |   |   |   |
+| Limited Disclosure Technology |   |   |   |
+| Line |   |   |   |
+| Line Balancing |   |   |   |
+| Line Dot Matrix |   |   |   |
+| Line Driver |   |   |   |
+| Line Hit |   |   |   |
+| Line Impact Dot Matrix |   |   |   |
+| Line Inkjet |   |   |   |
+| Line Load Control |   |   |   |
+| Line Loading |   |   |   |
+| Line Of Business |   |   |   |
+| Line Of Code |   |   |   |
+| Link Redundancy Level |   |   |   |
+| Linux |   |   |   |
+| Liquefied Natural Gas (LNG) |   |   |   |
+| Liquid Cooling |   |   |   |
+| Liquid Crystal on Silicon (LCoS) |   |   |   |
+| Liquid Submersion Cooling |   |   |   |
+| LISP |   |   |   |
+| Lithium Battery Backup |   |   |   |
+| Lithium Iron Phosphate (LiFePO4) Batteries |   |   |   |
+| Load Balancing |   |   |   |
+| Load Forecasting |   |   |   |
+| Local Modifications Memory |   |   |   |
+| Local Multipoint Distribution Service |   |   |   |
+| Local Number Portability |   |   |   |
+| Local Positioning System |   |   |   |
+| Location-aware Applications |   |   |   |
+| Location-aware Technology |   |   |   |
+| Location-based Advertising (LBA) |   |   |   |
+| Location-based Marketing (LBM) |   |   |   |
+| Logistics |   |   |   |
+| Logistics Network Planning |   |   |   |
+| Loopback |   |   |   |
+| Loosely Coupled Multiprocessing |   |   |   |
+| Low Frequency |   |   |   |
+| Low-cost IT |   |   |   |
+| Loyads |   |   |   |
+| Loyalty Marketing |   |   |   |
+| LRC (Longitudinal Redundancy Check) |   |   |   |
+| LTE-A |   |   |   |
+| Lurker |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### M
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| M-business |   |   |   |
+| M-commerce |   |   |   |
+| Machine Learning |   |   |   |
+| Machine-to-Machine (M2M) Communications |   |   |   |
+| Magic Quadrant |   |   |   |
+| Magnetic-ink Character Recognition |   |   |   |
+| Magneto-optic |   |   |   |
+| Magnetometer |   |   |   |
+| Mainframe |   |   |   |
+| Mainstream Notebook |   |   |   |
+| Managed File Transfer (MFT) |   |   |   |
+| Managed Network Services |   |   |   |
+| Managed Object |   |   |   |
+| Managed Print Services (MPS) |   |   |   |
+| Managed Security Service Provider (MSSP) |   |   |   |
+| Managed Service Provider (MSP) |   |   |   |
+| Management Consulting |   |   |   |
+| Management Information Base |   |   |   |
+| Manufacturer |   |   |   |
+| Manufacturing Execution System |   |   |   |
+| Manufacturing Planning |   |   |   |
+| Manufacturing Scheduling |   |   |   |
+| Mapreduce |   |   |   |
+| Marketing Analytics |   |   |   |
+| Marketing Automation Platform |   |   |   |
+| Marketing Automation System |   |   |   |
+| Marketing Content Management |   |   |   |
+| Marketing Database System |   |   |   |
+| Marketing Encyclopedia System |   |   |   |
+| Marketing Mix And Product Portfolio Optimization |   |   |   |
+| Marketing Mix Modeling |   |   |   |
+| Marketing Mix Optimization |   |   |   |
+| Marketing Performance Management (MPM) |   |   |   |
+| Marketing Resource Management |   |   |   |
+| Marketing Service Providers (MSPs) |   |   |   |
+| MarketScope |   |   |   |
+| Mashup |   |   |   |
+| Mashups |   |   |   |
+| Mass Collaboration |   |   |   |
+| Massive Open Online Course (MOOC) |   |   |   |
+| Master Content Management (MCM) |   |   |   |
+| Master Data Management (MDM) |   |   |   |
+| Materials Management |   |   |   |
+| Materials Management Information System |   |   |   |
+| Media Access Control |   |   |   |
+| Media Gateways |   |   |   |
+| Media Objects |   |   |   |
+| Media Tablet |   |   |   |
+| Media-Embedded Merchandising (MEM) |   |   |   |
+| Medical Management |   |   |   |
+| Meeting Solutions |   |   |   |
+| Megaportal |   |   |   |
+| Memory Overcommit |   |   |   |
+| Memristor |   |   |   |
+| Merchandising, Inventory and Operations Execution (MIOE) |   |   |   |
+| Mesh Network |   |   |   |
+| Message Authentication |   |   |   |
+| Message Authentication Code |   |   |   |
+| Message Broker |   |   |   |
+| Message Feedback |   |   |   |
+| Message Format |   |   |   |
+| Message Numbering |   |   |   |
+| Message Passing |   |   |   |
+| Message Queuing |   |   |   |
+| Message Switching |   |   |   |
+| Message Warehouse |   |   |   |
+| Messaging |   |   |   |
+| Messaging Application Programming Interface (MAPI) |   |   |   |
+| Messaging Device |   |   |   |
+| Messaging Hypertext Markup Language |   |   |   |
+| Metadata |   |   |   |
+| Metadata And Data Modeling Tools |   |   |   |
+| Metadirectory |   |   |   |
+| Metalanguage |   |   |   |
+| Metrication |   |   |   |
+| Micro Fuel Cells |   |   |   |
+| Micro-marketplace |   |   |   |
+| Microblogging |   |   |   |
+| Microbrowser |   |   |   |
+| Microcode |   |   |   |
+| Microfilm |   |   |   |
+| Microgrid |   |   |   |
+| Microgrids |   |   |   |
+| Microinverters |   |   |   |
+| Microprocessor |   |   |   |
+| Microservice |   |   |   |
+| Microsoft Certified Professional (MCP) |   |   |   |
+| Middleware |   |   |   |
+| Midsize Enterprise (mse) |   |   |   |
+| Million Instructions per Second (MIPS) |   |   |   |
+| Minimum Cell Rate |   |   |   |
+| Minutes of Use (MOUs) |   |   |   |
+| Mobile Advertising |   |   |   |
+| Mobile And Wireless Infrastructure Software Platforms |   |   |   |
+| Mobile Application Development Platform (MADP) |   |   |   |
+| Mobile Application Stores |   |   |   |
+| Mobile Browsers |   |   |   |
+| Mobile Centrex |   |   |   |
+| Mobile Cloud Synchronization |   |   |   |
+| Mobile Deep Packet Inspection (DPI) |   |   |   |
+| Mobile Device Management (MDM) |   |   |   |
+| Mobile Device Management Services (MDM Services) |   |   |   |
+| Mobile DRM |   |   |   |
+| Mobile Earth Station |   |   |   |
+| Mobile High-definition Link (MHL) |   |   |   |
+| Mobile IM |   |   |   |
+| Mobile IP |   |   |   |
+| Mobile Middleware |   |   |   |
+| Mobile Network |   |   |   |
+| Mobile Payment |   |   |   |
+| Mobile PC |   |   |   |
+| Mobile PC ODMs |   |   |   |
+| Mobile Portal |   |   |   |
+| Mobile Satellite Service (MSS) |   |   |   |
+| Mobile Satellite Services (MSS) |   |   |   |
+| Mobile Social Networks |   |   |   |
+| Mobile Transformers |   |   |   |
+| Mobile TV |   |   |   |
+| Mobile Virtual Network Enabler (MVNE) |   |   |   |
+| Mobile Virtual Network Operator (MVNO) |   |   |   |
+| Mobile Voice Over Internet Protocol (mVOIP) |   |   |   |
+| Mobile Web Applications |   |   |   |
+| Mobile Widgets |   |   |   |
+| Mobile Wireless Local Loop (WLL) |   |   |   |
+| Mobile-network Operator |   |   |   |
+| Mobile/Wireless Portal |   |   |   |
+| Mobility Managed Services (MMS) |   |   |   |
+| Model-driven Architecture (MDA) |   |   |   |
+| Model-driven Packaged Applications |   |   |   |
+| ModelOps |   |   |   |
+| Modulation |   |   |   |
+| Molecular Transistors |   |   |   |
+| Molten Salt Energy Storage |   |   |   |
+| Money Clouds |   |   |   |
+| Mood Recognition |   |   |   |
+| Motion JPEG (M-JPEG) |   |   |   |
+| Moves, Adds and Changes |   |   |   |
+| Moving Picture Experts Group (MPEG) |   |   |   |
+| MPEG-4 Advanced Video Coding (AVC) |   |   |   |
+| MSO (Management Services Organization) |   |   |   |
+| Multicarrier Code Division Multiple Access |   |   |   |
+| Multichannel Campaign Management |   |   |   |
+| Multichannel Feedback Management |   |   |   |
+| Multichannel Loyalty |   |   |   |
+| Multichannel Multipoint Distribution Service |   |   |   |
+| Multicore Processor |   |   |   |
+| Multidimensional Database Management System |   |   |   |
+| Multiexperience Development Platforms (MXDP) |   |   |   |
+| Multifunction Product |   |   |   |
+| Multimedia |   |   |   |
+| Multimedia Markup Language |   |   |   |
+| Multimedia Messaging Service |   |   |   |
+| Multimodal TMS |   |   |   |
+| Multimode Fiber |   |   |   |
+| Multiple Input/Multiple Output |   |   |   |
+| Multiple Instruction, Multiple Data |   |   |   |
+| Multiplexing |   |   |   |
+| Multipoint |   |   |   |
+| Multipurpose Internet Messaging Extensions |   |   |   |
+| Multitenancy |   |   |   |
+| Multithreading |   |   |   |
+| Multitouch |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
