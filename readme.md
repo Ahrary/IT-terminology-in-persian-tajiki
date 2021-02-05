@@ -1568,131 +1568,923 @@
 ### N
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| N-channel Metal-oxide Semiconductor (NMOS) |   |   |   |
+| Nagara |   |   |   |
+| NAND |   |   |   |
+| Nanography |   |   |   |
+| Nanomaterial Supercapacitors |   |   |   |
+| Nanotube |   |   |   |
+| NAP (Network Access Point) |   |   |   |
+| Narrowband Channels |   |   |   |
+| NAS (Network-Attached Storage) |   |   |   |
+| Natural-Language Processing (NLP) |   |   |   |
+| Natural-Language Understanding |   |   |   |
+| NC (Network Computer) |   |   |   |
+| NCCJ (Native Code Compiler for Java) |   |   |   |
+| NCOP (Network Code of Practice) |   |   |   |
+| NDC (Networked Data Center) |   |   |   |
+| NDF (Network Dynamic Functionality) |   |   |   |
+| Near Field Communication (NFC) |   |   |   |
+| Necessary Non-value-adding |   |   |   |
+| Nemawashi |   |   |   |
+| Net New Connections |   |   |   |
+| Net Present Value |   |   |   |
+| Net-liberated Organization |   |   |   |
+| Netbooks |   |   |   |
+| Network |   |   |   |
+| Network Access Control (NAC) |   |   |   |
+| Network and System Management |   |   |   |
+| Network Appliance |   |   |   |
+| Network Computing |   |   |   |
+| Network Configuration and Change Management (NCCM) Tools |   |   |   |
+| Network Database |   |   |   |
+| Network Fault Monitoring Tools |   |   |   |
+| Network Intelligence (NI) |   |   |   |
+| Network Interface Card |   |   |   |
+| Network Inventory |   |   |   |
+| Network Management |   |   |   |
+| Network Management Center |   |   |   |
+| Network on Chip (NoC) |   |   |   |
+| Network Operating System |   |   |   |
+| Network Outsourcing (Enterprise and Public Network) |   |   |   |
+| Network Performance Monitoring Tools |   |   |   |
+| Network Performance Tuning/Configuring Facilities |   |   |   |
+| Network Redundancy |   |   |   |
+| Network Security |   |   |   |
+| Network Security Silicon |   |   |   |
+| Network Sharing |   |   |   |
+| Network Topology |   |   |   |
+| Network Video Recorders |   |   |   |
+| Network Virtual Terminal |   |   |   |
+| Network Virtualization |   |   |   |
+| Neural Network |   |   |   |
+| Neurobusiness |   |   |   |
+| Next-generation Firewalls (NGFWs) |   |   |   |
+| Next-generation Network |   |   |   |
+| Next-generation Telematics Protocol (NGTP) |   |   |   |
+| Nexus Of Forces |   |   |   |
+| NMT-F |   |   |   |
+| No-email Initiatives |   |   |   |
+| Node B |   |   |   |
+| Nomadic Wireless |   |   |   |
+| Non-cable Consumer Fixed Broadband |   |   |   |
+| Non-value-adding |   |   |   |
+| Nonvolatile Memory Express (NVMe) and Nonvolatile Memory Express Over Fabrics (NVMe-oF) |   |   |   |
+| Nonwireline Cellular Carrier |   |   |   |
+| Notebook |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### O
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-
-**[⬆ ба феҳрист](#Феҳрист)**
-
-### Q
-| Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
-| ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| OASIS |   |   |   |
+| Object Class |   |   |   |
+| Object Data Model |   |   |   |
+| Object Instance |   |   |   |
+| Object Late Binding |   |   |   |
+| Object Request Broker |   |   |   |
+| Object Role Modeling |   |   |   |
+| Object Transaction Monitor |   |   |   |
+| Object-based Middleware |   |   |   |
+| Object-based Technologies |   |   |   |
+| Object-oriented Analysis and Design |   |   |   |
+| Object-oriented Database Management System |   |   |   |
+| Object-oriented Programming |   |   |   |
+| Object-oriented System |   |   |   |
+| Object-oriented Technology |   |   |   |
+| Occam Process |   |   |   |
+| ODM (Own Design Manufacturer) |   |   |   |
+| ODP (On-device Portal) |   |   |   |
+| Off The Shelf |   |   |   |
+| Offshore Programming |   |   |   |
+| Olfactory Interfaces |   |   |   |
+| On Time In Full (OTIF) |   |   |   |
+| On-device Monitoring |   |   |   |
+| Onboarding |   |   |   |
+| OneAPI |   |   |   |
+| Online Complex Processing |   |   |   |
+| Online Proctoring Services For Higher Education |   |   |   |
+| Online Program Management In Higher Education |   |   |   |
+| Online Transaction Processing |   |   |   |
+| Open Architecture |   |   |   |
+| Open Compute Project |   |   |   |
+| Open Data |   |   |   |
+| Open Mobile Alliance |   |   |   |
+| Open Source |   |   |   |
+| Operating Model |   |   |   |
+| Operating System |   |   |   |
+| Operational Data Store |   |   |   |
+| Operational Resilience |   |   |   |
+| Operational Resource Management |   |   |   |
+| Operational Technology (OT) |   |   |   |
+| Operations Services |   |   |   |
+| Operations Support System |   |   |   |
+| Opportunity Management System |   |   |   |
+| Optical Transport |   |   |   |
+| Optimization Routines |   |   |   |
+| Option Analysis |   |   |   |
+| Order Management |   |   |   |
+| Organic Light-emitting Diode (OLED) |   |   |   |
+| Original Equipment Manufacturer |   |   |   |
+| Osi Management |   |   |   |
+| Outage Management System (OMS) |   |   |   |
+| Over The Air |   |   |   |
+| Overlay |   |   |   | 
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### P
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| P2P (Peer-to-Peer) |   |   |   |
+| Pace-layered Application Strategy |   |   |   |
+| Packet Switching |   |   |   |
+| Packet-switched Network |   |   |   |
+| PACS (Personal Access Communication Services) |   |   |   |
+| PAD (Packet Assembler/Disassembler) |   |   |   |
+| Page |   |   |   |
+| PAL (Phase Alternate Line) |   |   |   |
+| PAM (Pulse Amplitude Modulation) |   |   |   |
+| Paper Size |   |   |   |
+| Parabolic Trough |   |   |   |
+| Parallel Network File System (PNFS) |   |   |   |
+| Parallel Processing |   |   |   |
+| Partitioning Code |   |   |   |
+| Partner Customer Support Software |   |   |   |
+| Partner Relationship Management (PRM) |   |   |   |
+| PAS (Personal Access System) |   |   |   |
+| Password Management Tools |   |   |   |
+| Pattern-based Strategy |   |   |   |
+| PBX (Private Branch Exchange) |   |   |   |
+| PC Virtual Software Appliance |   |   |   |
+| PCM (Patient Care Management) |   |   |   |
+| PCM (Pulse Code Modulation) |   |   |   |
+| PCO (Physician Contracting Organization) |   |   |   |
+| PCS (Personal Communications Services) |   |   |   |
+| PCU (Packet Control Unit) |   |   |   |
+| PDA (Personal Digital Assistant) |   |   |   |
+| PDC (Personal Digital Cellular) |   |   |   |
+| PDE (Partial Document Encryption) |   |   |   |
+| PDM (Product Data Management) |   |   |   |
+| Peak Traffic (in Erlangs) |   |   |   |
+| Penetration Rate (mobile) |   |   |   |
+| Penetration Testing |   |   |   |
+| Perfect Order |   |   |   |
+| Perfection |   |   |   |
+| Performance Management |   |   |   |
+| Performance-driven Culture |   |   |   |
+| Persona Management |   |   |   |
+| Personal Cloud |   |   |   |
+| Personalization Engines |   |   |   |
+| Phase Change Memory (PCM) |   |   |   |
+| Phasor Measurement Units (PMUs) |   |   |   |
+| PHMT |   |   |   |
+| PHO (Physician Hospital Organization) |   |   |   |
+| Photonic Crystal Displays |   |   |   |
+| PHR (Personal Health Record) |   |   |   |
+| PHS (Personal Handyphone System) |   |   |   |
+| Physical Resource And Infrastructure Management Tools |   |   |   |
+| Physical Security |   |   |   |
+| Pico Projector |   |   |   |
+| Picocell |   |   |   |
+| PIM (Personal Information Manager) |   |   |   |
+| PIMS (Production Information Management System) |   |   |   |
+| Plain Old XML (POX) |   |   |   |
+| Platform (Digital Business) |   |   |   |
+| Platform as a Service (PaaS) |   |   |   |
+| Platform-independent |   |   |   |
+| PLC (Programmable Logic Controller) |   |   |   |
+| Podcast |   |   |   |
+| Podcasting |   |   |   |
+| Point To Point |   |   |   |
+| Poke-yoke |   |   |   |
+| Polymer Memory |   |   |   |
+| POP (Point of Presence) |   |   |   |
+| Portable Flash Media For Content Distribution |   |   |   |
+| Portable Storage Device Control |   |   |   |
+| Portable Wireless |   |   |   |
+| Portal |   |   |   |
+| Portal Fabric |   |   |   |
+| Portal-enabling Middleware |   |   |   |
+| Portals And User Interaction Tools |   |   |   |
+| Portfolio Management |   |   |   |
+| Porting |   |   |   |
+| POS (Point of Sale) |   |   |   |
+| POS (Point of Service) |   |   |   |
+| Postmodern ERP |   |   |   |
+| Postpaid Connection |   |   |   |
+| Power Adaptive Algorithms |   |   |   |
+| Predictive Analytics |   |   |   |
+| Predictive Analytics (2) |   |   |   |
+| Predictive Behavior Analysis |   |   |   |
+| Predictive Modeling |   |   |   |
+| Predictive Modeling Solutions |   |   |   |
+| Predictive Support |   |   |   |
+| Prerelational DBMS |   |   |   |
+| Prescriptive Analytics |   |   |   |
+| Presence |   |   |   |
+| Print Markets And Management Hardware |   |   |   |
+| Printed Semiconductors |   |   |   |
+| Privacy Engineering |   |   |   |
+| Privacy Management Tools |   |   |   |
+| Private Cloud Computing |   |   |   |
+| Private Key |   |   |   |
+| Problem Management |   |   |   |
+| Process Analytical Technology (PAT) |   |   |   |
+| Process Control |   |   |   |
+| Process Management |   |   |   |
+| Process Manufacturing |   |   |   |
+| Process Mining |   |   |   |
+| Process Templates |   |   |   |
+| Processing, Line |   |   |   |
+| Processor Emulation |   |   |   |
+| Procurement Network |   |   |   |
+| Procure-to-pay Solution |   |   |   |
+| Product (digital Business) |   |   |   |
+| Product Analytics |   |   |   |
+| Product Catalog |   |   |   |
+| Product Configurators |   |   |   |
+| Product Cost and Life Cycle Management (PCLM) |   |   |   |
+| Product Cost Management |   |   |   |
+| Product Life Cycle Management (PLM) |   |   |   |
+| Product Management (Digital Business) |   |   |   |
+| Product Portfolio and Program Management (PPM) |   |   |   |
+| Product Support Services |   |   |   |
+| Production Devices |   |   |   |
+| Programmable Infrastructure |   |   |   |
+| Project Management |   |   |   |
+| Project Management Office (PMO) |   |   |   |
+| Proprietary Software |   |   |   |
+| Protocol |   |   |   |
+| Protocol Conversion |   |   |   |
+| Protocol Stack |   |   |   |
+| Protocol-transparent |   |   |   |
+| Proxy Agent |   |   |   |
+| Proxy Server |   |   |   |
+| PSA (Professional Services Administration) |   |   |   |
+| PSK (Phase-shift Keying) |   |   |   |
+| PTR (Peak Transaction Rate) |   |   |   |
+| Public Cloud Computing |   |   |   |
+| Public Key |   |   |   |
+| Public-key Cryptography |   |   |   |
+| Public-key Infrastructure (PKI) |   |   |   |
+| Publish And Subscribe |   |   |   |
+| Publish/Subscribe Architecture |   |   |   |
+| Pull |   |   |   |
+| Pull Printing |   |   |   |
+| Pulse Carrier |   |   |   |
+| Push Technology |   |   |   |
+| Push-to-talk (PTT) Over Cellular (PoC) |   |   |   |
+| PWM (Pulse Width Modulation) |   |   |   |
+| Pwn |   |   |   |
+| PX (Private Exchange) |   |   |   |
+
+**[⬆ ба феҳрист](#Феҳрист)**
+
+### Q
+| Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
+| ------------ | ------------ | ------------ | ------------ |
+| QA (Quality Assurance) |   |   |   |
+| QAM (Quadrature Amplitude Modulation) |   |   |   |
+| QoS (Quality of Service) |   |   |   |
+| Quad-band |   |   |   |
+| Quality Of Storage Service |   |   |   |
+| Quantum Computing |   |   |   |
+| Quantum Dot Displays |   |   |   |
+| Quick Response Codes (QR Codes) |   |   |   | 
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### R
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| RAAD (Rapid Architected Application Development) |   |   |   |
+| Rack |   |   |   |
+| Rack Density |   |   |   |
+| Rack Mount |   |   |   |
+| Rack Unit (RU) |   |   |   |
+| RAD (Rapid Application Development) |   |   |   |
+| Radio PAD (Radio Packet Assembler/Disassembler) |   |   |   |
+| Radio-frequency Identification (RFID) |   |   |   |
+| RAID (Redundant Array of Independent Disks) |   |   |   |
+| RAS (Reliability, Availability and Serviceability) |   |   |   |
+| RDBMS (Relational Database Management System) |   |   |   |
+| RDM (Requirements Definition and Management) |   |   |   |
+| Real Time |   |   |   |
+| Real-time Analytics |   |   |   |
+| Real-world Data |   |   |   |
+| Receiver Sensitivity |   |   |   |
+| Reconfigurable Optical Add/Drop Multiplexers (ROADMs) |   |   |   |
+| Records Management (RM) |   |   |   |
+| Redaction |   |   |   |
+| Redaction Tools |   |   |   |
+| Redundancy |   |   |   |
+| Regulatory Compliance |   |   |   |
+| Relational DBMS |   |   |   |
+| Remote Access |   |   |   |
+| Remote Control |   |   |   |
+| Remote Diagnostics |   |   |   |
+| Remote Work |   |   |   |
+| Removable Modules |   |   |   |
+| Repeatable Solutions |   |   |   |
+| Repository |   |   |   |
+| Request for Proposal (RFP) |   |   |   |
+| Resource Requirements Planning |   |   |   |
+| Response Time |   |   |   |
+| Retail Digital Signage |   |   |   |
+| Retail Execution And Monitoring |   |   |   |
+| Retail Sales |   |   |   |
+| Retail System Integrators |   |   |   |
+| Retirements |   |   |   |
+| Reusable Analog Intellectual Property (IP) |   |   |   |
+| Reuse |   |   |   |
+| Revenue |   |   |   |
+| Revenue Assurance |   |   |   |
+| RFID Reader |   |   |   |
+| RFID Tags |   |   |   |
+| Rich Communication Suite (RCS) |   |   |   |
+| Rich Internet Application (RIA) |   |   |   |
+| RISC (Reduced Instruction Set Computer) |   |   |   |
+| Risk Management |   |   |   |
+| Risk Management And Compliance Consulting Services |   |   |   |
+| Risk-adjusted Value Management (RVM) |   |   |   |
+| RM (Relationship Manager) |   |   |   |
+| RNC (Radio Network Controller) |   |   |   |
+| Roaming |   |   |   |
+| Robotic Process Automation (RPA) |   |   |   |
+| Robotic Process Automation Software |   |   |   |
+| ROC (Return on Competitiveness) |   |   |   |
+| ROE (Return on Equity) |   |   |   |
+| ROI (Return on Investment) |   |   |   |
+| ROIT (Return on Information Technology) |   |   |   |
+| ROLAP (Relational Online Analytical Processing) |   |   |   |
+| Rotary Heat Exchanger (Kyoto Wheel) |   |   |   |
+| RSA (Rural Service Area) |   |   |   |
+| RTT (Round-trip Time) |   |   |   |
+| R-UIM (Removable User Identity Module) |   |   |   |
+| Runtime Application Self-protection (RASP) |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### S
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| SAC (Subscriber Acquisition Cost) |   |   |   |
+| SAE (System Architecture Evolution) |   |   |   |
+| Sales Analytics |   |   |   |
+| Sales and Operations Execution (S&OE) |   |   |   |
+| Sales And Operations Planning Systems Of Differentiation |   |   |   |
+| Sales Configuration Systems |   |   |   |
+| Sales Enablement |   |   |   |
+| Sales To End Users |   |   |   |
+| Sales-focused Partner Relationship Management (PRM) |   |   |   |
+| SAM (Software Asset Management) |   |   |   |
+| SAM Tools (Systems Administration Management Tools) |   |   |   |
+| SAN (Storage Area Network) |   |   |   |
+| SAP Application Services, Worldwide |   |   |   |
+| SAP Selective Test Data Management Tools |   |   |   |
+| SAP SuccessFactors Service Providers |   |   |   |
+| Satellite Broadcasting Operator |   |   |   |
+| Satellite Communications |   |   |   |
+| Satellite Communications Operator |   |   |   |
+| Satellite Computer |   |   |   |
+| Satellite Dish |   |   |   |
+| Satellite Navigation Solutions |   |   |   |
+| Satellite Navigation Systems |   |   |   |
+| Satellite Phone (satphone) |   |   |   |
+| SAX (Simple API for XML) |   |   |   |
+| S-band |   |   |   |
+| SBM (Skills-based Management) |   |   |   |
+| SCADA (Supervisory Control and Data Acquisition) |   |   |   |
+| Scalability |   |   |   |
+| Scanner |   |   |   |
+| Scattering |   |   |   |
+| SCCM (Software Change and Configuration Management) |   |   |   |
+| SC-FDMA (Single-carrier Frequency Division Multiple Access) |   |   |   |
+| SCIV (Supply Chain Inventory Visibility) |   |   |   |
+| SCM (Software Configuration Management) |   |   |   |
+| Scope, Track, Rank, Evaluate, Evangelize and Transfer (STREET) |   |   |   |
+| SCPC (Single Channel Per Carrier) |   |   |   |
+| SCR (Sustainable Cell Rate) |   |   |   |
+| Scrambler |   |   |   |
+| Screen Popping |   |   |   |
+| Screen Sharing |   |   |   |
+| Screening |   |   |   |
+| Scriptless Testing |   |   |   |
+| SDH/SONET |   |   |   |
+| SDK (Software Development Kit) |   |   |   |
+| SDMA (Spatial Division Multiple Access) |   |   |   |
+| SDSL (Symmetric Digital Subscriber Line) |   |   |   |
+| Search Engine |   |   |   |
+| Search-based Data Discovery Tools |   |   |   |
+| Secondary Channel |   |   |   |
+| Secondary Station |   |   |   |
+| Secondhand Market |   |   |   |
+| Secret Key |   |   |   |
+| Secret-key Cryptography |   |   |   |
+| Secure Web Gateway |   |   |   |
+| Security |   |   |   |
+| Security Awareness Computer-based Training |   |   |   |
+| Security Governance |   |   |   |
+| Security Information And Event Management |   |   |   |
+| Security Information and Event Management (SIEM) |   |   |   |
+| Security Information And Event Management Software |   |   |   |
+| Security Orchestration, Automation and Response (SOAR) |   |   |   |
+| Seiban |   |   |   |
+| Selective Sourcing |   |   |   |
+| Selector |   |   |   |
+| Self-describing Messages |   |   |   |
+| Self-relocating Program |   |   |   |
+| Self-service Analytics |   |   |   |
+| Self-service Business Intelligence |   |   |   |
+| Self-test And Fault Isolation |   |   |   |
+| Sell Side |   |   |   |
+| Semantic Data Model |   |   |   |
+| Semantic Nets |   |   |   |
+| Semiconductor |   |   |   |
+| Semi-mobile Wireless |   |   |   |
+| Senpai |   |   |   |
+| Sensei (also Lean Sensei) |   |   |   |
+| Sensor and RFID-based Inventory and Asset Management Business Process Application Software |   |   |   |
+| Sensor and RFID-based Inventory and Asset Management Infrastructure Software |   |   |   |
+| Serial Dot Matrix |   |   |   |
+| Serial Inkjet |   |   |   |
+| Serial Interface |   |   |   |
+| Serial Transmission |   |   |   |
+| Server Appliance |   |   |   |
+| Server Virtualization Infrastructure |   |   |   |
+| Server Virtualization Management |   |   |   |
+| Server-Based Computing (SBC) |   |   |   |
+| Serverless Printing |   |   |   |
+| Service Bureau |   |   |   |
+| Service Catalog |   |   |   |
+| Service Desk |   |   |   |
+| Service Inventory |   |   |   |
+| Service Levels |   |   |   |
+| Service Mesh |   |   |   |
+| Service Provider Routers And Switches |   |   |   |
+| Service-centric Cloud Erp Solutions |   |   |   |
+| Service-Level Agreement (SLA) |   |   |   |
+| Service-oriented Architecture (SOA) |   |   |   |
+| Serving Area |   |   |   |
+| Servlet |   |   |   |
+| Session Border Controllers |   |   |   |
+| Session Initiation Protocol (SIP) |   |   |   |
+| Seven Wastes |   |   |   |
+| SFA (Sales Force Automation) |   |   |   |
+| SFA (Sales Force Automation) — Direct Sales (Field Sales/Inside Sales) |   |   |   |
+| SFC (Shop Floor Control) |   |   |   |
+| SFDR (Software Failure Detection and Recovery) |   |   |   |
+| SFF-LR (Small-form-factor, Legacy-reduced) |   |   |   |
+| SFM (Store-and-Forward Manager) |   |   |   |
+| SGSN (Serving GPRS Support Node) |   |   |   |
+| Shadow It |   |   |   |
+| Shadow/mirror Databases |   |   |   |
+| Shared Services Or Shared Services Center |   |   |   |
+| Shielded Pair |   |   |   |
+| Shim |   |   |   |
+| Shipments |   |   |   |
+| Shojinka |   |   |   |
+| Short Message Service (SMS) |   |   |   |
+| Shrink-wrapped |   |   |   |
+| S-HTTP (Secure Hypertext Transport Protocol) |   |   |   |
+| SI (System Integrator) |   |   |   |
+| Sideband |   |   |   |
+| Signaling Gateways/IP-STPs |   |   |   |
+| Signal-to Noise Ratio |   |   |   |
+| Signature |   |   |   |
+| Signature Verification |   |   |   |
+| Silicon Anode Batteries |   |   |   |
+| SIM Card (Subscriber Identity Module) Card |   |   |   |
+| SIM Toolkit (SIM Application Toolkit) |   |   |   |
+| SIMD (Single Instruction, Multiple Data) |   |   |   |
+| SIMM (Single In-line Memory Module) |   |   |   |
+| Simplex |   |   |   |
+| Simplex Circuit |   |   |   |
+| Simulation |   |   |   |
+| Simulation Routines |   |   |   |
+| Single Sign-on (SSO) |   |   |   |
+| Single-image Mode |   |   |   |
+| Single-instance ERP |   |   |   |
+| Single-mode Fiber |   |   |   |
+| Single-pass Device |   |   |   |
+| Sink |   |   |   |
+| SITE (Strategy, Iteration, Testing, Enablement) |   |   |   |
+| Six Sigma |   |   |   |
+| Skill Mining |   |   |   |
+| Skills |   |   |   |
+| Skinless Servers |   |   |   |
+| Skinput (Bioacoustic Sensing) |   |   |   |
+| SKU (Stock-Keeping Unit) |   |   |   |
+| SLED (Single Large Expensive Disk) |   |   |   |
+| SLM (Service-Level Management) |   |   |   |
+| SLM (Software License Management) |   |   |   |
+| SLO (Service-Level Objective) |   |   |   |
+| SMA (Service Management Agreement) |   |   |   |
+| Small and Midsize Business (SMB) |   |   |   |
+| Smart Antenna |   |   |   |
+| Smart Card |   |   |   |
+| Smart Contract |   |   |   |
+| Smart Factory |   |   |   |
+| Smart Grid |   |   |   |
+| Smart Machines |   |   |   |
+| Smart Manufacturing |   |   |   |
+| Smart Pills |   |   |   |
+| Smart Terminal |   |   |   |
+| Smartphone |   |   |   |
+| SME (Small-to-Midsize Enterprise) |   |   |   |
+| SMED (Single Minute Exchange of Die) |   |   |   |
+| SMFP (Smart MFP) |   |   |   |
+| SMP (Symmetric Multiprocessing) |   |   |   |
+| SMR (Specialized Mobile Radio) |   |   |   |
+| SMS (System-Managed Storage) |   |   |   |
+| SMTP (Simple Mail Transfer Protocol) |   |   |   |
+| Sniffer |   |   |   |
+| SNMP (Simple Network Management Protocol) |   |   |   |
+| SNOMED (Systematized Nomenclature of Medicine) |   |   |   |
+| SOA Governance Technologies |   |   |   |
+| SOAP (Simple Object Access Protocol) |   |   |   |
+| SOAP (Subjective, Objective, Assessment and Plan) |   |   |   |
+| SOC (Software Oversight Committee) |   |   |   |
+| Social Analytics |   |   |   |
+| Social BPM |   |   |   |
+| Social Computing |   |   |   |
+| Social Content |   |   |   |
+| Social CRM |   |   |   |
+| Social Feedback |   |   |   |
+| Social Gaming |   |   |   |
+| Social Media |   |   |   |
+| Social Media Tools |   |   |   |
+| Social Network Analysis (SNA) |   |   |   |
+| Social Networking |   |   |   |
+| Social Networking Sites |   |   |   |
+| Social Profile |   |   |   |
+| Social Profiles |   |   |   |
+| Social Publishing |   |   |   |
+| Social Search |   |   |   |
+| Social Software |   |   |   |
+| Social Software Standards |   |   |   |
+| Social Systems |   |   |   |
+| Social Tagging (Folksonomy) |   |   |   |
+| Social Technologies |   |   |   |
+| Social Web |   |   |   |
+| Socialcasting |   |   |   |
+| Sockets |   |   |   |
+| Softswitch Architecture |   |   |   |
+| Softswitches |   |   |   |
+| Software as a Service (SaaS) |   |   |   |
+| Software Development |   |   |   |
+| Software Maintenance |   |   |   |
+| Software Support Services |   |   |   |
+| Software-defined Networks |   |   |   |
+| Software-Defined Radio (SDR) |   |   |   |
+| Software-Defined WAN (SD-WAN) |   |   |   |
+| SOHO (Small Office/Home Office) |   |   |   |
+| Solid-state Appliances |   |   |   |
+| Solid-State Drives (SSDs) |   |   |   |
+| Solution |   |   |   |
+| Solution Architecture |   |   |   |
+| Solution Portfolio |   |   |   |
+| SONET (Synchronous Optical Network) |   |   |   |
+| Source Encoding |   |   |   |
+| Source Routing |   |   |   |
+| Source Traffic Descriptor |   |   |   |
+| SOW (Statement of Work) |   |   |   |
+| SP (Service Pack) |   |   |   |
+| Space Segment |   |   |   |
+| Spaghetti Chart |   |   |   |
+| Spam |   |   |   |
+| Spamdexing |   |   |   |
+| SPC (Statistical Process Control) |   |   |   |
+| Spectrum |   |   |   |
+| Spectrum Harmonization |   |   |   |
+| Speech Circuit |   |   |   |
+| Speech Recognition |   |   |   |
+| SPF (Shortest Path First) |   |   |   |
+| Spider |   |   |   |
+| Spoofing |   |   |   |
+| SPP (Service Parts Planning) |   |   |   |
+| Spread Spectrum |   |   |   |
+| SQL (Structured Query Language) |   |   |   |
+| SRA |   |   |   |
+| SSEM (System and Server Evaluation Model) |   |   |   |
+| SSL (Secure Sockets Layer) |   |   |   |
+| SSN (Switched Service Network) |   |   |   |
+| SSP (Service Switching Point) |   |   |   |
+| SSP (Storage Service Provider) |   |   |   |
+| SSPC (Structure, Scripting, Populating and Channel Outputs) |   |   |   |
+| Stalking Horses |   |   |   |
+| Standard |   |   |   |
+| Standard Performance Evaluation Corporation (SPEC) |   |   |   |
+| Standards |   |   |   |
+| Static Application Security Testing (SAST) |   |   |   |
+| Statistical Multiplexing |   |   |   |
+| Statistical Quality Control/statistical Process Control |   |   |   |
+| STDM (Statistical Time-Division Multiplexing) |   |   |   |
+| STEP (Specification, Tracking, Evaluation, Production) |   |   |   |
+| Stickiness |   |   |   |
+| STM (Synchronous Transfer Mode) |   |   |   |
+| Storage Appliance |   |   |   |
+| Storage Management Software |   |   |   |
+| Storage Resource Management (SRM) |   |   |   |
+| Storage Subsystem Hardware Services |   |   |   |
+| Storage Support Services |   |   |   |
+| Store-and-Forward Voice |   |   |   |
+| Strategic Information Office (SIO) |   |   |   |
+| Streaming |   |   |   |
+| Structural Change |   |   |   |
+| Sub-11GHz Proprietary BWA |   |   |   |
+| Subnet |   |   |   |
+| Subnet Mask |   |   |   |
+| Subnet Number |   |   |   |
+| Subscriber |   |   |   |
+| Sub-voice-grade Channel |   |   |   |
+| Super Wi-Fi |   |   |   |
+| Superserver |   |   |   |
+| Supply Chain |   |   |   |
+| Supply Chain Architecture Life Cycle |   |   |   |
+| Supply Chain Execution (sce) |   |   |   |
+| Supply Chain Management (SCM) |   |   |   |
+| Supply Chain Planning (SCP) |   |   |   |
+| Supply Chain Segmentation |   |   |   |
+| Surface Computers |   |   |   |
+| Sustainability Management |   |   |   |
+| SVG Interface (Scalable Vector Graphics Interface) |   |   |   |
+| SVGA (Super Video Graphics Array) |   |   |   |
+| SWAP (Simple Workflow Access Protocol) |   |   |   |
+| SWIFT (Society for Worldwide Interbank Financial Telecommunication) |   |   |   |
+| Switch |   |   |   |
+| Switch-based Storage Virtualization |   |   |   |
+| Switched Line |   |   |   |
+| Switched Network |   |   |   |
+| Switching |   |   |   |
+| Switching Center |   |   |   |
+| Switchover |   |   |   |
+| Symbian |   |   |   |
+| Synchronization |   |   |   |
+| Synchronized Bills Of Materials |   |   |   |
+| Synchronous |   |   |   |
+| Synchronous Communications |   |   |   |
+| Synchronous Network |   |   |   |
+| Synchronous Transmission |   |   |   |
+| SyncML (Synchronization Markup Language) |   |   |   |
+| Syntax |   |   |   |
+| Synthetic Data |   |   |   |
+| System Integration |   |   |   |
+| System Management |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### T
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Table Driven |   |   |   |
+| Tacit Knowledge |   |   |   |
+| TACS (Total Access Communications System) |   |   |   |
+| Tag Management |   |   |   |
+| Takt Time |   |   |   |
+| Talent Management Suites |   |   |   |
+| TCP (Transmission Control Protocol) |   |   |   |
+| TCP/IP (Transmission Control Protocol/Internet Protocol) |   |   |   |
+| TDMA (Time Division Multiple Access) |   |   |   |
+| TDR (Time Domain Reflectometry) |   |   |   |
+| Techquilibrium |   |   |   |
+| Techquisitions |   |   |   |
+| Telco |   |   |   |
+| Telecom Analytics |   |   |   |
+| Telecom Equipment Support Services |   |   |   |
+| Telecom Expense Management Services |   |   |   |
+| Telecommunications Carrier |   |   |   |
+| Telecommunications Equipment |   |   |   |
+| Telecommunications Services |   |   |   |
+| Teledensity |   |   |   |
+| Telematics |   |   |   |
+| Telephony-centric UC Approach |   |   |   |
+| Tera-architectures |   |   |   |
+| Terabit-per-second Transport |   |   |   |
+| TERM (Technology-enabled Relationship Management) |   |   |   |
+| Terminal |   |   |   |
+| Terminal Emulation |   |   |   |
+| Test Data Generator |   |   |   |
+| Tethered Remote Access |   |   |   |
+| Text Analytics |   |   |   |
+| Text Mining |   |   |   |
+| Text Retrieval |   |   |   |
+| Thermal Printing |   |   |   |
+| Thermal Transfer |   |   |   |
+| Thin Client |   |   |   |
+| Thin Provisioning |   |   |   |
+| Third-party Logistics, Worldwide |   |   |   |
+| Three-schema Architecture |   |   |   |
+| Throughput |   |   |   |
+| Through-Silicon Vias (TSVs) |   |   |   |
+| Time Division Multiplexing (TDM) |   |   |   |
+| Time Out |   |   |   |
+| TLM (Technical License Management) |   |   |   |
+| TLP (Transmission-level Point) |   |   |   |
+| TLS (Transport Layer Security) |   |   |   |
+| TMG (Trunk Media Gateways) |   |   |   |
+| TMS (Transportation Management System) |   |   |   |
+| Tokenization |   |   |   |
+| Total Connections |   |   |   |
+| Total Cost of Ownership (TCO) |   |   |   |
+| Total IPTV Subscribers |   |   |   |
+| Total Revenue |   |   |   |
+| Total Service Revenue |   |   |   |
+| Touchpoint |   |   |   |
+| Touch-sensitive |   |   |   |
+| Track And Trace |   |   |   |
+| Trade Promotion Management And Optimization |   |   |   |
+| Transceiver |   |   |   |
+| Transducer |   |   |   |
+| Transfer Rate |   |   |   |
+| Translator |   |   |   |
+| Transmedia |   |   |   |
+| Transparency |   |   |   |
+| Transponder |   |   |   |
+| Trouble Ticket |   |   |   |
+| Tuning |   |   |   |
+| Tunneling |   |   |   |
+| Type A, B And C Enterprises |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### U
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Ultrabook |   |   |   |
+| Ultracapacitors |   |   |   |
+| Ultra-high-speed Broadband Internet |   |   |   |
+| Ultramobiles |   |   |   |
+| Unified Communications (UC) |   |   |   |
+| Unified Communications and Collaboration (UCC) |   |   |   |
+| Unified Communications as a Service (UCaaS) |   |   |   |
+| Unified Communications Products |   |   |   |
+| Unified Price, Promotion And Markdown Optimization Applications |   |   |   |
+| Unified Threat Management (UTM) |   |   |   |
+| URL (Uniform Resource Locator) |   |   |   |
+| User Authentication Technologies |   |   |   |
+| User Experience Platforms (UXP) |   |   |   |
+| User Provisioning |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### V
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Value Stream |   |   |   |
+| Value Stream Mapping (VSM) |   |   |   |
+| Value-added Network (VAN) |   |   |   |
+| Value-Added Reseller (VAR) |   |   |   |
+| Value-added Service (VAS) |   |   |   |
+| Value-adding |   |   |   |
+| ValueOps |   |   |   |
+| Variable Bit Rate (VBR) |   |   |   |
+| VBScript |   |   |   |
+| Vendor |   |   |   |
+| Vendor Management |   |   |   |
+| Vendor Revenue |   |   |   |
+| Vendor Risk Management (vrm) |   |   |   |
+| Vendor-neutral |   |   |   |
+| Versatile Authentication Server and Service (VAS) |   |   |   |
+| Very High-speed Digital Subscriber Lines (VDSL) |   |   |   |
+| Very Large-scale Integration (VLSI) |   |   |   |
+| Very Small Aperture Terminal (VSAT) |   |   |   |
+| Video On Demand (VOD) |   |   |   |
+| Video Surveillance Management Systems |   |   |   |
+| Video Telepresence |   |   |   |
+| Videoconferencing |   |   |   |
+| Virtual Assistant (VA) |   |   |   |
+| Virtual Channel (VC) |   |   |   |
+| Virtual Customer Premises Equipment (vCPE) |   |   |   |
+| Virtual Desktop Infrastructure (VDI) |   |   |   |
+| Virtual LAN (VLAN) |   |   |   |
+| Virtual Machine (VM) |   |   |   |
+| Virtual Matrix Organization |   |   |   |
+| Virtual Network Operator (vno) |   |   |   |
+| Virtual Private Network (VPN) |   |   |   |
+| Virtual Reality (VR) |   |   |   |
+| Virtual Reality Modeling Language (VRML) |   |   |   |
+| Virtual Server Facility (VSF) |   |   |   |
+| Virtual Switch |   |   |   |
+| Virtual Tape Library (VTL) |   |   |   |
+| Virtual Team |   |   |   |
+| Virtual Team Building |   |   |   |
+| Virtualization |   |   |   |
+| Virtualization Software |   |   |   |
+| Visitor Location Register (VLR) |   |   |   |
+| Visual Basic (VB) |   |   |   |
+| Visual Basic Extension (VBX) |   |   |   |
+| Visual Basic for Applications (VBA) |   |   |   |
+| Visual Studio (VS) |   |   |   |
+| Visualization |   |   |   |
+| Voice Application Servers |   |   |   |
+| Voice Browser |   |   |   |
+| Voice Encryption |   |   |   |
+| Voice Endpoint |   |   |   |
+| Voice Mail |   |   |   |
+| Voice of the Customer (VoC) |   |   |   |
+| Voice Over Internet Protocol (VOIP) |   |   |   |
+| Voice Over Wireless LAN (VoWLAN) |   |   |   |
+| Voice Portal |   |   |   |
+| Voice Response System (VRS) |   |   |   |
+| Voice Response Unit (VRU) |   |   |   |
+| Voice Switching, Control And Applications (VSCA) |   |   |   |
+| Voice-enabled Residential/Small-office Gateway/Router with Embedded DSL Modem (xDSL IAD) |   |   |   |
+| VoiceXML |   |   |   |
+| Volumetric Displays |   |   |   |
+| Vulnerability Assessment |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### W
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |    |
+| Wafer |   |   |   |
+| WAG (Wireless Application Gateway) |   |   |   |
+| WAN (Wide-Area Network) |   |   |   |
+| WAN Performance Monitor |   |   |   |
+| WAN Replacement |   |   |   |
+| WAP (Wireless Application Protocol) |   |   |   |
+| WAP Browser |   |   |   |
+| WAP Forum |   |   |   |
+| Warehouse Management System (WMS) |   |   |   |
+| Warehouse Simulation |   |   |   |
+| WASP (Wireless Application Service Provider) |   |   |   |
+| Waste |   |   |   |
+| Waste Walk |   |   |   |
+| Wave Power |   |   |   |
+| Wavelength Division Multiplexing Passive Optical Network (WDM-PON) |   |   |   |
+| WBS (Work Breakdown Structure) |   |   |   |
+| WCDMA (Wideband Code Division Multiple Access) |   |   |   |
+| WDP (Wireless Datagram Protocol) |   |   |   |
+| Weak Or Strong Signal |   |   |   |
+| Wearable Computer |   |   |   |
+| Web |   |   |   |
+| Web 2.0 |   |   |   |
+| Web Access Management (WAM) |   |   |   |
+| Web Analytics |   |   |   |
+| Web ATM |   |   |   |
+| Web Authorization Management (WAM) |   |   |   |
+| Web Books |   |   |   |
+| Web Conferencing And Shared Work Spaces/team Collaboration |   |   |   |
+| Web Content Management (WCM) |   |   |   |
+| Web Crawler |   |   |   |
+| Web E-mail |   |   |   |
+| Web Hosting |   |   |   |
+| Web Integration Servers |   |   |   |
+| Web Phone |   |   |   |
+| Web Server |   |   |   |
+| Web Services |   |   |   |
+| Web Services Software |   |   |   |
+| Web TV |   |   |   |
+| Web Widgets |   |   |   |
+| Web-enabled |   |   |   |
+| Web-oriented Architecture (WOA) |   |   |   |
+| Website |   |   |   |
+| Website Experience Analytics |   |   |   |
+| WECA (Wireless Ethernet Compatibility Alliance) |   |   |   |
+| WEP (Wired Equivalent Privacy) |   |   |   |
+| WFM (Wired for Management) |   |   |   |
+| WFM (Workforce Management) |   |   |   |
+| Wholesale Carrier |   |   |   |
+| WiBree |   |   |   |
+| WiBro (Wireless Broadband) |   |   |   |
+| Wide-area Network Optimization Controllers (WOCs) |   |   |   |
+| Wi-Fi (Wireless Fidelity) |   |   |   |
+| Wi-Fi Alliance |   |   |   |
+| Wi-Fi Mesh |   |   |   |
+| Wi-Fi Protected Access (WPA) |   |   |   |
+| Wi-Fi Protected Access 2 (WPA2) |   |   |   |
+| WiGig |   |   |   |
+| WiHD (Wireless HD) |   |   |   |
+| Wiki |   |   |   |
+| WIM (WAP Identity Module) |   |   |   |
+| WiMAX (Worldwide Interoperability for Microwave Access) |   |   |   |
+| Wimedia Alliance |   |   |   |
+| Windowing |   |   |   |
+| Windows CE |   |   |   |
+| Windows Client |   |   |   |
+| Windows Live Messenger |   |   |   |
+| Winning in the Turns |   |   |   |
+| Wireless Data Communication |   |   |   |
+| Wireless Intrusion Prevention System (WIPS) |   |   |   |
+| Wireless Local-Area Network (WLAN) |   |   |   |
+| Wireless Power |   |   |   |
+| Work Management |   |   |   |
+| Workday Financial Management Service Providers |   |   |   |
+| Workflow Management |   |   |   |
+| Workforce Analytics |   |   |   |
+| Workstations |   |   |   |
+| World Wide Web Consortium (W3C) |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### X
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| X Windows  |   |   | **X Windows** is the software system written for managing windows under Unix. A graphics architecture, application programming interface (API) and prototype implementation developed by the Massachusetts Institute of Technology, X Windows defines a client/server relationship between the applications program and the workstation. It is not, however, a complete graphical user interface (GUI), but rather the basis upon which one can be built.  |
 |   |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
@@ -1702,22 +2494,14 @@
 | ------------ | ------------ | ------------ | ------------ |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
 
 ### Z
 | Англисӣ  | Порсии тоҷикӣ  | Русӣ  | Шарҳ (ба англисӣ)  |
 | ------------ | ------------ | ------------ | ------------ |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Zero Trust Network Access (ZTNA) |   |   |   |
+| Zero-latency Enterprise (ZLE) |   |   |   |
+| ZigBee |   |   |   |
 
 **[⬆ ба феҳрист](#Феҳрист)**
-
