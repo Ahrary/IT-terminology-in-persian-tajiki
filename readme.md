@@ -469,6 +469,7 @@
 | Composite Content Applications (CCAs) |   |   |   |
 | Composition |   |   |   |
 | Compound Annual Growth Rate (CAGR) |   |   |   |
+| Computer | Роёна | Компьютер | A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. |
 | Computational-fluid-dynamic (CFD) Analysis |   |   |   |
 | Computer Emergency Response Team (CERT) |   |   |   |
 | Computer-Aided Design and Drafting (CADD) |   |   |   |
